@@ -34,7 +34,6 @@ Open finance is the movement that leverages open source software and decentraliz
   - [Swap / AirSwap's Protocol](https://airswap.io) ([source code](https://github.com/airswap), [white paper](https://swap.tech/whitepaper/)) - Protocol for peer-to-peer trading of ERC20 tokens
 
 - [Stellar](https://www.stellar.org/developers/guides/concepts/exchange.html) ([source code](https://github.com/stellar)) - Decentralized protocol for financial applications, including support for decentralized exchange
-  
 
 <a name="stablecoins" />
 
@@ -70,7 +69,6 @@ Open finance is the movement that leverages open source software and decentraliz
   - [Lendroid](https://www.lendroid.com) ([source code](https://github.com/lendroidproject), [white paper](https://uploads-ssl.webflow.com/5b3d0e23faf03c5dc943df64/5b3d0e23faf03c96e243df86_whitepaper-margin-trading-2-18.pdf)) - Protocol for decentralized lending, margin trading, and short selling
   - [Marble](https://marble.org) ([source code](https://github.com/marbleprotocol)) - "Flash lending" protocol for borrowing "Ether and ERC20 tokens to take advantage of arbitrage opportunities on Ethereum"
 
-
 <a name="derivative-protocols" />
 
 ## Derivative Protocols / Prediction Markets
@@ -85,7 +83,12 @@ Open finance is the movement that leverages open source software and decentraliz
 
 <a name="bundling-protocols" />
 
+## Bundling Protocols 
 
+- Ethereum
+  - [Basket Protocol](https://www.coinalpha.com/projects) ([source code](https://github.com/CoinAlpha/basket-protocol)) - Protocol for creating tokens that contain a portfolio of other tokens
+  - [BSKT](https://cryptofinlabs.github.io) ([source code](https://github.com/cryptofinlabs/bskt), [white paper](https://github.com/cryptofinlabs/bskt-whitepaper/blob/master/bskt-whitepaper-v1.0.0.pdf)) - Generic smart contract that creates decentralized token portfolios
+  - [Set](https://setprotocol.com) ([source code](https://github.com/SetProtocol/set-protocol-contracts), [white paper](https://setprotocol.com/pdf/set_protocol_whitepaper.pdf)) - Protocol for creating, issuing, redeeming, and rebalancing fungible, collateralized baskets of tokenized assets
 
 <a name="fund-protocols" />
 
