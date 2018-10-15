@@ -1,10 +1,10 @@
-# Awesome Open Finance  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jtoy/awesome)
+# Awesome Decentralized Finance  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jtoy/awesome)
 
-A curated list of awesome open finance projects, software, and resources.  
+A curated list of awesome decentralized finance projects, software, and resources.  
 
-## What is Open Finance?
+## What is Decentralized Finance?
 
-Open finance is the movement that leverages open source software and decentralized networks to transform traditional financial products into trustless and transparent protocols that operate without unnecessary intermediaries.  One could envision open finance impacting the financial world the same way that open source software has changed software products.
+Decentralized finance is the movement that leverages open source software and decentralized networks to transform traditional financial products into trustless and transparent protocols that operate without unnecessary intermediaries.  One could envision decentralized finance impacting the financial world the same way that open source software has changed software products.
 
 ## Table of Contents
 
