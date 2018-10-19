@@ -58,6 +58,7 @@ Decentralized finance is the movement that leverages open source software and de
     - [Basis](https://www.basis.io) ([white paper](https://www.basis.io/basis_whitepaper_en.pdf)) - Algorithmic stablecoin that "can be robustly pegged to arbitrary assets or baskets of goods"
     - [Carbon](https://fiat.carbon.money) ([white paper](https://www.carbon.money/whitepaper.pdf))  - Stablecoin that will be composed of a basket of whitelisted tokens that is "functionally fiat-backed with the potential to whitelist an algorithmic stablecoin" 
     - [Fragments](https://www.fragments.org) ([white paper](https://www.fragments.org/paper/)) - Monetary policy-based stablecoin protocol
+    - [Terra](https://terra.money) ([white paper](https://terra.money/static/Terra_White_paper.pdf)) - Protocol that ensures price-stability by algorithmically expanding and contracting supply
 
 <a name="lending-protocols" />
 
