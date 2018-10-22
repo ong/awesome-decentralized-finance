@@ -27,10 +27,11 @@ Decentralized finance is the movement that leverages open source software and de
   - [Bisq](https://bisq.network) ([source code](https://github.com/bisq-network/bisq), [white paper](https://github.com/bisq-network/bisq-docs/blob/master/exchange/whitepaper.adoc)) - Protocol for peer-to-peer exchange of bitcoin
 - Ethereum
   - [0x](https://0xproject.com) ([source code](https://github.com/0xProject), [white paper](https://0xproject.com/pdfs/0x_white_paper.pdf)) - Protocol for decentralized exchange of Ethereum assets using relayers, now on version 2
+    - [0x Tracker](https://0xtracker.com) ([source code](https://github.com/0xTracker)) - Useful dashboard of 0x order fill events
   - [Bancor Protocol](https://about.bancor.network/protocol/) ([source code](https://github.com/bancorprotocol/contracts), [white paper](https://storage.googleapis.com/website-bancor/2018/04/01ba8253-bancor_protocol_whitepaper_en.pdf)) - Protocol for converting one token to another using "smart tokens"
   - [Hydro](https://thehydrofoundation.com/) ([white paper](https://thehydrofoundation.com/Hydro-Whitepaper-v0116-en.pdf)) -  Protocol for "high performance decentralized exchanges and marketplaces with built-in incentives for coordination"
   - [Kyber](https://kyber.network) ([source code](https://github.com/kybernetwork), original white paper removed from website but is archived [here](https://whitepaper.io/document/43/kyber-network-whitepaper)) - On-chain protocol for decentralized token swaps and for easy application integration
-  - [Loopring](https://loopring.org) ([source code](https://github.com/loopring),[white paper](https://loopring.org/resources.html)) - Protocol for building decentralized exchanges.  
+  - [Loopring](https://loopring.org) ([source code](https://github.com/loopring),[white paper](https://loopring.org/resources.html)) - Protocol for building decentralized exchanges  
   - [Republic](https://republicprotocol.com) ([source code](https://republicprotocol.com), [white paper](https://releases.republicprotocol.com/whitepaper/1.0.0/whitepaper_1.0.0.pdf)) - Decentralized dark pool protocol for atomic swaps of digital assets
   - [Swap / AirSwap's Protocol](https://airswap.io) ([source code](https://github.com/airswap), [white paper](https://swap.tech/whitepaper/)) - Protocol for peer-to-peer trading of ERC20 tokens
 
@@ -107,7 +108,7 @@ Decentralized finance is the movement that leverages open source software and de
   - [Harbor/R-Token](https://harbor.com) ([source code](https://github.com/harborhq), [white paper](https://harbor.com/rtokenwhitepaper.pdf)) - Compliant protocol for standardizing crypto-securities issuance and trading
   - [Polymath/ST-20](https://polymath.network) ([source code](https://github.com/PolymathNetwork), [white paper](https://polymath.network/whitepaper.html)) - Platform for tokenizing securities
   - [Abacus](https://abacusprotocol.com) ([soure code](https://github.com/abacusprotocol), [white paper](https://polymath.network/whitepaper.html)) - Protocol for permissioned tokens
-
+  
 <a name="misc" />
 
 ## Misc
