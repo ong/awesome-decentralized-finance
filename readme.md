@@ -15,6 +15,7 @@ Decentralized finance is the movement that leverages open source software and de
 - [Bundling Protocols](#bundling-protocols)
 - [Tokenization Protocols](#tokenization-protocols)
 - [Fund Protocols](#fund-protocols)
+- [KYC/AML/Identity](#kyc-aml-identity)
 - [Misc](#misc)
 - [Community](#community)
 
@@ -109,6 +110,13 @@ Decentralized finance is the movement that leverages open source software and de
   - [Polymath/ST-20](https://polymath.network) ([source code](https://github.com/PolymathNetwork), [white paper](https://polymath.network/whitepaper.html)) - Platform for tokenizing securities
   - [Abacus](https://abacusprotocol.com) ([soure code](https://github.com/abacusprotocol), [white paper](https://polymath.network/whitepaper.html)) - Protocol for permissioned tokens
   
+<a name="kyc-aml-identity" />
+
+## KYC/AML/Identity  
+- Ethereum
+  - [Bloom](https://bloom.co) ([source code](https://github.com/hellobloom), [white paper](https://bloom.co/whitepaper.pdf)] - Protocol for identity & credit-scoring
+  - [Wyre](https://www.sendwyre.com) ([source code](https://github.com/sendwyre), [Medium post](https://blog.sendwyre.com/announcing-the-wyre-sdk-on-ramps-off-ramps-in-under-10-lines-of-code-f2b127eccb5d)) - Compliance SDK that mints ERC-721 tokens to the addresses of verified users
+ 
 <a name="misc" />
 
 ## Misc
