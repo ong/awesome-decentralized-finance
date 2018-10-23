@@ -51,7 +51,7 @@ Decentralized finance is the movement that leverages open source software and de
     - [Paxos](https://www.paxos.com/standard/) ([source code](https://github.com/paxosglobal/pax-contracts), [white paper](https://www.paxos.com/wp-content/uploads/2018/10/PAX-Whitepaper.pdf)) - ERC-20 stablecoin issued by Paxos Trust Company
     - [TrueUSD](https://www.trusttoken.com/trueusd/) ([source code](https://github.com/trusttoken/trueUSD)) - ERC-20 stablecoin with KYC/AML issued by TrustToken
 - Collateralized
-  - [Celo](https://celo.org) - Over-collateralized stablecoin targeting the unbanked using its own distributed ledger
+  - [Celo](https://celo.org) (white paper available via Digify by submitting email on [website](https://celo.org)) - Over-collateralized stablecoin targeting the unbanked using its own distributed ledger
   - Ethereum
     - [Dai Stablecoin from Maker](https://makerdao.com/dai) ([source code](https://github.com/makerdao), [white paper](https://makerdao.com/whitepaper/)) - Stablecoin based on smart contracts for creating collateralized debt positions
     - [Havven](https://havven.io/)([source code](https://github.com/Havven/havven), [white paper](https://havven.io/uploads/havven_whitepaper.pdf)) - Decentralized stablecoin modeled on centralized closed loop payment networks
