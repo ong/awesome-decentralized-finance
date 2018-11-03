@@ -35,6 +35,7 @@ Decentralized finance is the movement that leverages open source software and de
   - [Loopring](https://loopring.org) ([source code](https://github.com/loopring),[white paper](https://loopring.org/resources.html)) - Protocol for building decentralized exchanges  
   - [Republic](https://republicprotocol.com) ([source code](https://republicprotocol.com), [white paper](https://releases.republicprotocol.com/whitepaper/1.0.0/whitepaper_1.0.0.pdf)) - Decentralized dark pool protocol for atomic swaps of digital assets
   - [Swap / AirSwap's Protocol](https://airswap.io) ([source code](https://github.com/airswap), [white paper](https://swap.tech/whitepaper/)) - Protocol for peer-to-peer trading of ERC20 tokens
+  - [Uniswap](https://uniswap.io) ([source code](https://github.com/Uniswap), [white paper](https://hackmd.io/C-DvwDSfSxuh-Gd4WKE_ig)) - "Public good"-oriented interface for ERC-20 token exchange with zero rent-extraction.
 
 - [Stellar](https://www.stellar.org/developers/guides/concepts/exchange.html) ([source code](https://github.com/stellar)) - Decentralized protocol for financial applications, including support for decentralized exchange
 
