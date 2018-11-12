@@ -123,7 +123,7 @@ Decentralized finance is the movement that leverages open source software and de
 
 ## Applications/Tools
 - Ethereum
-  - [Bloqboard](http://bloqboard.com) - Application that aggregates requests to borrow and lend ERC-20 tokens and provides a GUI for accessing Dharma and Compound protocols
+  - [Bloqboard](http://bloqboard.com) - Lending platform for collateralized loans originated, settled, serviced, and managed on Ethereum and powered by Compound and Dharma
   - [Fetch](http://hellofetch.co) - Application that is both a decentralized exchange aggregator for price discovery and trading and a dashboard for discovering and managing decentralized loans and borrowings
   - [Multis](https://multis.co) ([white paper](https://multis.co/white-paper.html)) - Interface for multisig contracts positioned as "cryptobank for companies"
 
