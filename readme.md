@@ -122,6 +122,7 @@ Decentralized finance is the movement that leverages open source software and de
 
 ## Misc
 - Ethereum
+  - [Groundhog](https://groundhog.network) ([source code](https://github.com/groundhognetwork) - End to End payment platform enabling crypto subscription payments
   - [8x Protocol](https://8xprotocol.com) ([source code](https://github.com/8xprotocol), [white paper](https://rawcdn.githack.com/8xprotocol/whitepaper/master/latest.pdf)) - Protocol for decentralized subscription payment
   - [Centrifuge](http://www.centrifuge.io) ([source code](), [white paper](https://www.centrifuge.io/assets/Centrifuge%20OS%20White%20Paper.pdf)) - Platform for financial supply chain, including exchange of invoices, purchase orders, etc.
   - [Multis](https://multis.co) ([white paper](https://multis.co/white-paper.html)) - Interface for multisig contracts positioned as "cryptobank for companies"
