@@ -16,6 +16,7 @@ Decentralized finance is the movement that leverages open source software and de
 - [Tokenization Protocols](#tokenization-protocols)
 - [Fund Protocols](#fund-protocols)
 - [KYC/AML/Identity](#kyc-aml-identity)
+- [Applications/Tools](#applications-tools)
 - [Misc](#misc)
 - [Community](#community)
 
@@ -118,14 +119,20 @@ Decentralized finance is the movement that leverages open source software and de
   - [Bloom](https://bloom.co) ([source code](https://github.com/hellobloom), [white paper](https://bloom.co/whitepaper.pdf)] - Protocol for identity & credit-scoring
   - [Wyre](https://www.sendwyre.com) ([source code](https://github.com/sendwyre), [Medium post](https://blog.sendwyre.com/announcing-the-wyre-sdk-on-ramps-off-ramps-in-under-10-lines-of-code-f2b127eccb5d)) - Compliance SDK that mints ERC-721 tokens to the addresses of verified users
  
+<a name="applications-tools" />
+
+## Applications/Tools
+- Ethereum
+  - [Bloqboard](http://bloqboard.com) - Application that aggregates requests to borrow and lend ERC-20 tokens and provides a GUI for accessing Dharma and Compound protocols
+  - [Fetch](http://hellofetch.co) - Application that is both a decentralized exchange aggregator for price discovery and trading and a dashboard for discovering and managing decentralized loans and borrowings
+  - [Multis](https://multis.co) ([white paper](https://multis.co/white-paper.html)) - Interface for multisig contracts positioned as "cryptobank for companies"
+
 <a name="misc" />
 
 ## Misc
 - Ethereum
   - [8x Protocol](https://8xprotocol.com) ([source code](https://github.com/8xprotocol), [white paper](https://rawcdn.githack.com/8xprotocol/whitepaper/master/latest.pdf)) - Protocol for decentralized subscription payment
   - [Centrifuge](http://www.centrifuge.io) ([source code](), [white paper](https://www.centrifuge.io/assets/Centrifuge%20OS%20White%20Paper.pdf)) - Platform for financial supply chain, including exchange of invoices, purchase orders, etc.
-  - [Fetch](http://hellofetch.co) - End-user application that is both a decentralized exchange aggregator for price discovery and trading and a dashboard for discovering and managing decentralized loans and borrowings.
-  - [Multis](https://multis.co) ([white paper](https://multis.co/white-paper.html)) - Interface for multisig contracts positioned as "cryptobank for companies"
 <a name="community" /> 
 
 ## Community
