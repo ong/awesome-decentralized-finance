@@ -4,7 +4,7 @@ A curated list of awesome decentralized finance projects, software, and resource
 
 ## What is Decentralized Finance?
 
-Decentralized finance is the movement that leverages open source software and decentralized networks to transform traditional financial products into trustless and transparent protocols that operate without unnecessary intermediaries.  One could envision decentralized finance impacting the financial world the same way that open source software has changed software products.
+Decentralized finance (#defi) is the movement that leverages open source software and decentralized networks to transform traditional financial products into trustless and transparent protocols that operate without unnecessary intermediaries.  One could envision decentralized finance impacting the financial world the same way that open source software has changed software products.
 
 ## Contents
 
