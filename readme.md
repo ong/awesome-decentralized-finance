@@ -125,6 +125,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 ## Applications/Tools
 - Ethereum
   - [Bloqboard](http://bloqboard.com) - Lending platform for collateralized loans originated, settled, serviced, and managed on Ethereum and powered by Compound and Dharma
+  - [DEX Terminal](https://dexterminal.com) - Useful dashboard of decentralized finance activities, from exchange volume to lending/borrowing rates. 
   - [Fetch](http://hellofetch.co) - Application that is both a decentralized exchange aggregator for price discovery and trading and a dashboard for discovering and managing decentralized loans and borrowings
   - [Multis](https://multis.co) ([white paper](https://multis.co/white-paper.html)) - Interface for multisig contracts positioned as "cryptobank for companies"
 
