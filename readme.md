@@ -35,7 +35,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Kyber](https://kyber.network) ([source code](https://github.com/kybernetwork), original white paper removed from website but is archived [here](https://whitepaper.io/document/43/kyber-network-whitepaper)) - On-chain protocol for decentralized token swaps and for easy application integration
   - [Loopring](https://loopring.org) ([source code](https://github.com/loopring),[white paper](https://loopring.org/resources.html)) - Protocol for building decentralized exchanges  
   - [Republic](https://republicprotocol.com) ([source code](https://republicprotocol.com), [white paper](https://releases.republicprotocol.com/whitepaper/1.0.0/whitepaper_1.0.0.pdf)) - Decentralized dark pool protocol for atomic swaps of digital assets
-  - [Swap / AirSwap's Protocol](https://airswap.io) ([source code](https://github.com/airswap), [white paper](https://swap.tech/whitepaper/)) - Protocol for peer-to-peer trading of ERC20 tokens
+  - [Swap / AirSwap's Protocol](https://airswap.io) ([source code](https://github.com/airswap), [white paper](https://swap.tech/whitepaper/)) - Protocol for peer-to-peer trading of ERC-20 tokens
   - [Uniswap](https://uniswap.io) ([source code](https://github.com/Uniswap), [white paper](https://hackmd.io/C-DvwDSfSxuh-Gd4WKE_ig)) - "Public good"-oriented interface for ERC-20 token exchange with zero rent-extraction.
 
 - [Stellar](https://www.stellar.org/developers/guides/concepts/exchange.html) ([source code](https://github.com/stellar)) - Decentralized protocol for financial applications, including support for decentralized exchange
@@ -125,7 +125,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 ## Applications/Tools
 - Ethereum
   - [Bloqboard](http://bloqboard.com) - Lending platform for collateralized loans originated, settled, serviced, and managed on Ethereum and powered by Compound and Dharma
-  - [DEX Terminal](https://dexterminal.com) - Useful dashboard of decentralized finance activities, from exchange volume to lending/borrowing rates. 
+  - [DEX Terminal](https://dexterminal.com) - Useful dashboard of decentralized finance activities, from exchange volume to lending/borrowing rates
   - [Fetch](http://hellofetch.co) - Application that is both a decentralized exchange aggregator for price discovery and trading and a dashboard for discovering and managing decentralized loans and borrowings
   - [Multis](https://multis.co) ([white paper](https://multis.co/white-paper.html)) - Interface for multisig contracts positioned as "cryptobank for companies"
 
