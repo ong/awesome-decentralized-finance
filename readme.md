@@ -134,6 +134,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 ## Misc
 - Ethereum
   - [8x Protocol](https://8xprotocol.com) ([source code](https://github.com/8xprotocol), [white paper](https://rawcdn.githack.com/8xprotocol/whitepaper/master/latest.pdf)) - Protocol for decentralized subscription payment
+  - [AZTEC Protocol](https://www.aztecprotocol.com) ([source code](https://github.com/AztecProtocol/AZTEC), [white paper](https://github.com/AztecProtocol/AZTEC/blob/master/AZTEC.pdf)) - Privacy-enabling protocol for confidential transactions on the Ethereum network
   - [Centrifuge](http://www.centrifuge.io) ([source code](), [white paper](https://www.centrifuge.io/assets/Centrifuge%20OS%20White%20Paper.pdf)) - Platform for financial supply chain, including exchange of invoices, purchase orders, etc.
   - [Groundhog](https://groundhog.network) - "End-to-end" platform for decentralized recurring subscription payments
 
