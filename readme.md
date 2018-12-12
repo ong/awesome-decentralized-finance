@@ -143,6 +143,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 
 ## Community
 * [DeFi Reddit](https://www.reddit.com/r/defi/)
+* [DeFi Telegram](https://t.me/de_fi)
 
 <a name="contributions" />
 
