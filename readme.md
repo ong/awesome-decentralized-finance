@@ -59,7 +59,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
     - [Havven](https://havven.io/)([source code](https://github.com/Havven/havven), [white paper](https://havven.io/uploads/havven_whitepaper.pdf)) - Decentralized stablecoin modeled on centralized closed loop payment networks
 - Algorithmic
   - Ethereum
-    - [Basis](https://www.basis.io) ([white paper](https://www.basis.io/basis_whitepaper_en.pdf)) - Algorithmic stablecoin that "can be robustly pegged to arbitrary assets or baskets of goods"
+    - [Basis](https://www.basis.io) ([white paper](https://www.basis.io/basis_whitepaper_en.pdf)) - Algorithmic stablecoin that "can be robustly pegged to arbitrary assets or baskets of goods" - [reported to be shutting down](https://www.theblockcrypto.com/2018/12/12/stablecoin-project-basis-is-shutting-down-and-returning-the-majority-of-capital-raised-to-investors/)
     - [Carbon](https://fiat.carbon.money) ([white paper](https://www.carbon.money/whitepaper.pdf))  - Stablecoin that will be composed of a basket of whitelisted tokens that is "functionally fiat-backed with the potential to whitelist an algorithmic stablecoin" 
     - [Fragments](https://www.fragments.org) ([white paper](https://www.fragments.org/paper/)) - Monetary policy-based stablecoin protocol
     - [Terra](https://terra.money) ([white paper](https://terra.money/static/Terra_White_paper.pdf)) - Protocol that ensures price-stability by algorithmically expanding and contracting supply
