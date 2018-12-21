@@ -129,7 +129,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [DEX Terminal](https://dexterminal.com) - Useful dashboard of decentralized finance activities, from exchange volume to lending/borrowing rates
   - [Fetch](http://hellofetch.co) - Application that is both a decentralized exchange aggregator for price discovery and trading and a dashboard for discovering and managing decentralized loans and borrowings
   - [Multis](https://multis.co) ([white paper](https://multis.co/white-paper.html)) - Interface for multisig contracts positioned as "cryptobank for companies"
-  - [Zerion](https://zerion.io) -  Trustless bank, an intuitive interface to blockchain-based protocols for decentralized finance
+  - [Zerion](https://zerion.io) - Interface to decentralized finance protocols positioned as "trustless banking"
 
 <a name="misc" />
 
