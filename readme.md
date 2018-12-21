@@ -60,7 +60,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 - Algorithmic
   - Ethereum
     - ~~[Basis](https://www.basis.io) ([white paper](https://www.basis.io/basis_whitepaper_en.pdf)) - Algorithmic stablecoin that "can be robustly pegged to arbitrary assets or baskets of goods"~~ - shut down due to inability to release tokens without securities classification in the US
-    - [Carbon](https://fiat.carbon.money) ([white paper](https://www.carbon.money/whitepaper.pdf))  - Stablecoin that will be composed of a basket of whitelisted tokens that is "functionally fiat-backed with the potential to whitelist an algorithmic stablecoin" 
+    - [Carbon](https://fiat.carbon.money) ([white paper](https://www.carbon.money/whitepaper.pdf))  - Stablecoin that will be composed of a basket of whitelisted tokens that is "functionally fiat-backed with the potential to whitelist an algorithmic stablecoin"
     - [Fragments](https://www.fragments.org) ([white paper](https://www.fragments.org/paper/)) - Monetary policy-based stablecoin protocol
     - [Terra](https://terra.money) ([white paper](https://terra.money/static/Terra_White_paper.pdf)) - Protocol that ensures price-stability by algorithmically expanding and contracting supply
 
@@ -91,7 +91,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 
 <a name="bundling-protocols" />
 
-## Bundling Protocols 
+## Bundling Protocols
 
 - Ethereum
   - [Basket Protocol](https://www.coinalpha.com/projects) ([source code](https://github.com/CoinAlpha/basket-protocol)) - Protocol for creating tokens that contain a portfolio of other tokens
@@ -105,7 +105,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 - Ethereum
   - [Fund Protocol](https://www.coinalpha.com/projects) ([source code](https://github.com/CoinAlpha/fund-protocol)) - Protocol for fund administration on the Ethereum blockchain
   - [Melonport](https://melonport.com) ([source code](https://github.com/melonproject), [green paper](https://github.com/melonproject/paper/blob/master/melonprotocol.pdf)) - Protocol for digital asset management
-  
+
 <a name="tokenization-protocols" />
 
 ## Tokenization Protocols
@@ -113,14 +113,14 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Harbor/R-Token](https://harbor.com) ([source code](https://github.com/harborhq), [white paper](https://harbor.com/rtokenwhitepaper.pdf)) - Compliant protocol for standardizing crypto-securities issuance and trading
   - [Polymath/ST-20](https://polymath.network) ([source code](https://github.com/PolymathNetwork), [white paper](https://polymath.network/whitepaper.html)) - Platform for tokenizing securities
   - [Abacus](https://abacusprotocol.com) ([soure code](https://github.com/abacusprotocol), [white paper](https://polymath.network/whitepaper.html)) - Protocol for permissioned tokens
-  
+
 <a name="kyc-aml-identity" />
 
 ## KYC/AML/Identity  
 - Ethereum
   - [Bloom](https://bloom.co) ([source code](https://github.com/hellobloom), [white paper](https://bloom.co/whitepaper.pdf)] - Protocol for identity & credit-scoring
   - [Wyre](https://www.sendwyre.com) ([source code](https://github.com/sendwyre), [Medium post](https://blog.sendwyre.com/announcing-the-wyre-sdk-on-ramps-off-ramps-in-under-10-lines-of-code-f2b127eccb5d)) - Compliance SDK that mints ERC-721 tokens to the addresses of verified users
- 
+
 <a name="applications-tools" />
 
 ## Applications/Tools
@@ -129,6 +129,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [DEX Terminal](https://dexterminal.com) - Useful dashboard of decentralized finance activities, from exchange volume to lending/borrowing rates
   - [Fetch](http://hellofetch.co) - Application that is both a decentralized exchange aggregator for price discovery and trading and a dashboard for discovering and managing decentralized loans and borrowings
   - [Multis](https://multis.co) ([white paper](https://multis.co/white-paper.html)) - Interface for multisig contracts positioned as "cryptobank for companies"
+  - [Zerion](https://zerion.io) -  Trustless bank, an intuitive interface to blockchain-based protocols for decentralized finance
 
 <a name="misc" />
 
@@ -139,7 +140,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Centrifuge](http://www.centrifuge.io) ([white paper](https://www.centrifuge.io/assets/Centrifuge%20OS%20White%20Paper.pdf)) - Platform for financial supply chain, including exchange of invoices, purchase orders, etc.
   - [Groundhog](https://groundhog.network) - "End-to-end" platform for decentralized recurring subscription payments
 
-<a name="community" /> 
+<a name="community" />
 
 ## Community
 * [DeFi Reddit](https://www.reddit.com/r/defi/)
