@@ -17,6 +17,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 - [Fund Protocols](#fund-protocols)
 - [KYC/AML/Identity](#kyc-aml-identity)
 - [Applications/Tools](#applications-tools)
+- [Analytics](#analytics)
 - [Misc](#misc)
 - [Community](#community)
 
@@ -131,6 +132,14 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Fetch](http://hellofetch.co) - Application that is both a decentralized exchange aggregator for price discovery and trading and a dashboard for discovering and managing decentralized loans and borrowings
   - [Multis](https://multis.co) ([white paper](https://multis.co/white-paper.html)) - Interface for multisig contracts positioned as "cryptobank for companies"
   - [Zerion](https://zerion.io) - Interface to decentralized finance protocols positioned as "trustless banking"
+
+<a name="analytics" />
+
+## Analytics
+- Ethereum
+  - [DEX Terminal](https://dexterminal.com) - Dashboard for lending and borrow rates in decentralized finance
+  - [MakerScan](https://makerscan.io) - Explorer for MakerDao
+  
 
 <a name="misc" />
 
