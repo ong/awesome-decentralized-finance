@@ -137,6 +137,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 ## Analytics
 - Ethereum
   - [DEX Terminal](https://dexterminal.com) - Dashboard of decentralized finance activities, from exchange volume to lending/borrowing rates
+  - [ETH in DeFi](https://mikemcdonald.github.io/eth-defi/) - Chart of the amount of ETH locked in DeFi products (Maker, Compound, Augur, dYdX, Uniswap)
   - [MakerScan](https://makerscan.io) - Explorer for MakerDao
   
 
