@@ -130,7 +130,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Bloqboard](http://bloqboard.com) - Lending platform for collateralized loans originated, settled, serviced, and managed on Ethereum and powered by Compound and Dharma
   - [Fetch](http://hellofetch.co) - Application that is both a decentralized exchange aggregator for price discovery and trading and a dashboard for discovering and managing decentralized loans and borrowings
   - [Multis](https://multis.co) ([white paper](https://multis.co/white-paper.html)) - Interface for multisig contracts positioned as "cryptobank for companies"
-  - [Settle](https://settle.finance) - Web-native Operating System for Decentralized Finance
+  - [Settle](https://settle.finance) - Web interface that combines chat with different crypto tools (including portfolio tracking and integration with DeFi protocols) and an "app store" for developers  
   - [Zerion](https://zerion.io) - Interface to decentralized finance protocols positioned as "trustless banking"
 
 <a name="analytics" />
