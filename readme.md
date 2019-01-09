@@ -100,7 +100,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 - Ethereum
   - [Basket Protocol](https://www.coinalpha.com/projects) ([source code](https://github.com/CoinAlpha/basket-protocol)) - Protocol for creating tokens that contain a portfolio of other tokens
   - [BSKT](https://cryptofinlabs.github.io) ([source code](https://github.com/cryptofinlabs/bskt), [white paper](https://github.com/cryptofinlabs/bskt-whitepaper/blob/master/bskt-whitepaper-v1.0.0.pdf)) - Generic smart contract that creates decentralized token portfolios
-  - [Set](https://setprotocol.com) ([source code](https://github.com/SetProtocol/set-protocol-contracts), [white paper](https://setprotocol.com/pdf/set_protocol_whitepaper.pdf)) - Protocol for creating, issuing, redeeming, and rebalancing fungible, collateralized baskets of tokenized assets
+  - [Set](https://www.setprotocol.com/) ([source code](https://github.com/SetProtocol/set-protocol-contracts), [white paper](https://www.setprotocol.com/pdf/set_protocol_whitepaper.pdf)) - Protocol for creating, issuing, redeeming, and rebalancing fungible, collateralized baskets of tokenized assets
 
 <a name="fund-protocols" />
 
