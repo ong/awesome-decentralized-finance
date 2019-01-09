@@ -57,7 +57,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Celo](https://celo.org) (white paper available via Digify by submitting email on [website](https://celo.org)) - Over-collateralized stablecoin targeting the unbanked using its own distributed ledger
   - Ethereum
     - [Dai Stablecoin from Maker](https://makerdao.com/dai) ([source code](https://github.com/makerdao), [white paper](https://makerdao.com/whitepaper/)) - Stablecoin based on smart contracts for creating collateralized debt positions
-    - [Havven](https://havven.io/)([source code](https://github.com/Havven/havven), [white paper](https://havven.io/uploads/havven_whitepaper.pdf)) - Decentralized stablecoin modeled on centralized closed loop payment networks
+    - [Synthetix](https://www.synthetix.io/)([rebranding announcement](https://blog.havven.io/havven-is-transforming-into-synthetix-2fdf727b8892), [source code](https://github.com/Havven/havven), [white paper](https://www.synthetix.io/uploads/synthetix_whitepaper.pdf)) - Decentralized stablecoin modeled on centralized closed loop payment networks
      - [WBTC](https://www.wbtc.network) ([white paper](https://www.wbtc.network/assets/wrapped-tokens-whitepaper.pdf)) - ERC-20 token backed 1:1 by Bitcoin.
 - Algorithmic
   - Ethereum
