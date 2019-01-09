@@ -144,6 +144,8 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [ETH in DeFi](https://mikemcdonald.github.io/eth-defi/) - Chart of the amount of ETH locked in DeFi products (Maker, Compound, Augur, dYdX, Uniswap)
   - [MakerScan](https://makerscan.io) - Explorer for MakerDao
   - [MKR Tools](https://mkr.tools/) - Another explorer for MakerDao
+  - [Compound Analytics](https://www.curiousgiraffe.io/compound/) - Explorer for Compound
+  - [Augur Analytics](https://www.curiousgiraffe.io/augur/) - Explorer for Augur
 
 <a name="misc" />
 
