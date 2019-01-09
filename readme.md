@@ -25,7 +25,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 
 ## Decentralized Exchange Protocols
 
-- [BitShares](https://bitshares.org/technology/decentralized-asset-exchange/) ([source code](https://github.com/bitshares), [white paper](https://www.bitshares.foundation/papers/BitSharesBlockchain.pdf)) - Decentralized exchange protocol based on the Graphene blockchain
+- [BitShares](https://bitshares.org/technology/decentralized-asset-exchange) ([source code](https://github.com/bitshares), [white paper](https://www.bitshares.foundation/papers/BitSharesBlockchain.pdf)) - Decentralized exchange protocol based on the Graphene blockchain
 - Bitcoin
   - [Bisq](https://bisq.network) ([source code](https://github.com/bisq-network/bisq), [white paper](https://github.com/bisq-network/bisq-docs/blob/master/exchange/whitepaper.adoc)) - Protocol for peer-to-peer exchange of bitcoin
 - Ethereum
