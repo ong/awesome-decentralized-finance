@@ -146,6 +146,8 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [MKR Tools](https://mkr.tools/) - Another explorer for MakerDao
   - [Compound Analytics](https://www.curiousgiraffe.io/compound/) - Explorer for Compound
   - [Augur Analytics](https://www.curiousgiraffe.io/augur/) - Explorer for Augur
+  - [AirSwap Analytics](https://www.curiousgiraffe.io/airswap/) - Explorer for AirSwap
+  - [KyberSwap Analytics](https://www.curiousgiraffe.io/kyberswap/) - Explorer for Kyberswap
 
 <a name="misc" />
 
