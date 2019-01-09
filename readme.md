@@ -39,7 +39,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Swap / AirSwap's Protocol](https://airswap.io) ([source code](https://github.com/airswap), [white paper](https://swap.tech/whitepaper/)) - Protocol for peer-to-peer trading of ERC-20 tokens
   - [Uniswap](https://uniswap.io) ([source code](https://github.com/Uniswap), [white paper](https://hackmd.io/C-DvwDSfSxuh-Gd4WKE_ig)) - "Public good"-oriented interface for ERC-20 token exchange with zero rent-extraction.
 
-- [Stellar](https://www.stellar.org/developers/guides/concepts/exchange.html) ([source code](https://github.com/stellar)) - Decentralized protocol for financial applications, including support for decentralized exchange
+- [Stellar](https://www.stellar.org/developers/guides/concepts/exchange.html) ([source code](https://github.com/stellar), [white paper](https://www.stellar.org/papers/stellar-consensus-protocol.pdf)) - Decentralized protocol for financial applications, including support for decentralized exchange
 
 <a name="stablecoins" />
 
