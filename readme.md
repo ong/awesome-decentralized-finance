@@ -29,7 +29,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 - Bitcoin
   - [Bisq](https://bisq.network) ([source code](https://github.com/bisq-network/bisq), [white paper](https://github.com/bisq-network/bisq-docs/blob/master/exchange/whitepaper.adoc)) - Protocol for peer-to-peer exchange of bitcoin
 - Ethereum
-  - [0x](https://0xproject.com) ([source code](https://github.com/0xProject), [white paper](https://0xproject.com/pdfs/0x_white_paper.pdf)) - Protocol for decentralized exchange of Ethereum assets using relayers, now on version 2
+  - [0x](https://0x.org/) ([source code](https://github.com/0xProject), [white paper](https://0x.org/pdfs/0x_white_paper.pdf)) - Protocol for decentralized exchange of Ethereum assets using relayers, now on version 2
     - [0x Tracker](https://0xtracker.com) ([source code](https://github.com/0xTracker)) - Useful dashboard of 0x order fill events
   - [Bancor Protocol](https://about.bancor.network/protocol/) ([source code](https://github.com/bancorprotocol/contracts), [white paper](https://storage.googleapis.com/website-bancor/2018/04/01ba8253-bancor_protocol_whitepaper_en.pdf)) - Protocol for converting one token to another using "smart tokens"
   - [Hydro](https://hydroprotocol.io/) ([fork announcement](https://medium.com/hydro-protocol/why-we-are-forking-0x-97dc48ee0426), [original white paper](https://thehydrofoundation.com/Hydro-Whitepaper-v0116-en.pdf)) -  A fork of 0x from DDEX with new order schema, a new matching engine, a different liquidity sharing model, and no ZRX token.
