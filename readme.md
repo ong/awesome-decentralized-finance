@@ -51,7 +51,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - Ethereum
     - [CENTRE USDC](https://www.centre.io/usdc) ([source code](https://github.com/centrehq), [white paper](https://www.centre.io/pdfs/centre-whitepaper.pdf)) - ERC-20 stablecoin originally issued by [Circle](https://www.circle.com/en/usdc) and now embraced by [Coinbase](https://blog.coinbase.com/coinbase-and-circle-announce-the-launch-of-usdc-a-digital-dollar-2cd6548d237)
     - [Gemini Dollar](https://gemini.com/dollar/) ([source code](https://github.com/gemini/dollar), [white paper](https://gemini.com/wp-content/themes/gemini/assets/img/dollar/gemini-dollar-whitepaper.pdf)) - ERC-20 stablecoin issued by Gemini
-    - [Paxos](https://www.paxos.com/standard/) ([source code](https://github.com/paxosglobal/pax-contracts), [white paper](https://www.paxos.com/wp-content/uploads/2018/10/PAX-Whitepaper.pdf)) - ERC-20 stablecoin issued by Paxos Trust Company
+    - [Paxos](https://www.paxos.com/standard/) ([source code](https://github.com/paxosglobal/pax-contracts), [white paper](https://standard.paxos.com/whitepaper.pdf)) - ERC-20 stablecoin issued by Paxos Trust Company
     - [TrueUSD](https://www.trusttoken.com/trueusd/) ([source code](https://github.com/trusttoken/trueUSD)) - ERC-20 stablecoin with KYC/AML issued by TrustToken
 - Collateralized
   - [Celo](https://celo.org) (white paper available via Digify by submitting email on [website](https://celo.org)) - Over-collateralized stablecoin targeting the unbanked using its own distributed ledger
