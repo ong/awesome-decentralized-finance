@@ -77,6 +77,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Ethlend](http://ethlend.io) ([source code](https://github.com/ETHLend), [white paper](https://github.com/ETHLend/Documentation/blob/master/ETHLendWhitePaper.md)) - Marketplace for peer-to-peer lending
   - [Lendroid](https://www.lendroid.com) ([source code](https://github.com/lendroidproject), [white paper](https://uploads-ssl.webflow.com/5b3d0e23faf03c5dc943df64/5b3d0e23faf03c96e243df86_whitepaper-margin-trading-2-18.pdf)) - Protocol for decentralized lending, margin trading, and short selling
   - [Marble](https://marble.org) ([source code](https://github.com/marbleprotocol)) - "Flash lending" protocol for borrowing "Ether and ERC20 tokens to take advantage of arbitrage opportunities on Ethereum"
+  - [Ripio](https://ripiocredit.network/) ([source code](https://github.com/ripio/), [white paper](https://ripiocredit.network/wp/RCN%20Whitepaper%20ENG.pdf)) - P2P global credit network protocol based on cosigned smart contracts.
 
 <a name="derivative-protocols" />
 
