@@ -121,6 +121,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Harbor/R-Token](https://harbor.com) ([source code](https://github.com/harborhq), [white paper](https://harbor.com/rtokenwhitepaper.pdf)) - Compliant protocol for standardizing crypto-securities issuance and trading
   - [Polymath/ST-20](https://polymath.network) ([source code](https://github.com/PolymathNetwork), [white paper](https://polymath.network/whitepaper.html)) - Platform for tokenizing securities
   - [Abacus](https://abacusprotocol.com) ([soure code](https://github.com/abacusprotocol), [white paper](https://polymath.network/whitepaper.html)) - Protocol for permissioned tokens
+- [Stellar](https://www.stellar.org/) ([source code](https://github.com/stellar/stellar-core), [docs](https://www.stellar.org/developers/guides/concepts/assets.html)) - Stellar has first-party support for issuing arbitrary tokens
 
 <a name="kyc-aml-identity" />
 
