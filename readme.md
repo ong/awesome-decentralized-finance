@@ -53,6 +53,10 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
     - [Gemini Dollar](https://gemini.com/dollar/) ([source code](https://github.com/gemini/dollar), [white paper](https://gemini.com/wp-content/themes/gemini/assets/img/dollar/gemini-dollar-whitepaper.pdf)) - ERC-20 stablecoin issued by Gemini
     - [Paxos](https://www.paxos.com/standard/) ([source code](https://github.com/paxosglobal/pax-contracts), [white paper](https://www.paxos.com/wp-content/uploads/2018/10/PAX-Whitepaper.pdf)) - ERC-20 stablecoin issued by Paxos Trust Company
     - [TrueUSD](https://www.trusttoken.com/trueusd/) ([source code](https://github.com/trusttoken/trueUSD)) - ERC-20 stablecoin with KYC/AML issued by TrustToken
+  - Stellar
+    - [AnchorUSD](https://www.anchorusd.com/) (closed source) - Stellar-based token that promises deposits are held 1:1 in audited, US-based bank accounts. KYC/AML compliant.
+    - [Stronghold](https://stronghold.co/stronghold-usd/) (closed source) - Stellar-based token that provides a KYC/AML compliant USD stablecoin.
+    - [White Standard](https://thewhitecompanyus.com/white-standard/) (closed source) - Stellar-based tokens that provide stablecoins for a variety of currencies.
 - Collateralized
   - [Celo](https://celo.org) (white paper available via Digify by submitting email on [website](https://celo.org)) - Over-collateralized stablecoin targeting the unbanked using its own distributed ledger
   - Ethereum
