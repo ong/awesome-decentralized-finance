@@ -57,13 +57,13 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Celo](https://celo.org) (white paper available via Digify by submitting email on [website](https://celo.org)) - Over-collateralized stablecoin targeting the unbanked using its own distributed ledger
   - Ethereum
     - [Dai Stablecoin from Maker](https://makerdao.com/dai) ([source code](https://github.com/makerdao), [white paper](https://makerdao.com/whitepaper/)) - Stablecoin based on smart contracts for creating collateralized debt positions
-    - [Synthetix](https://www.synthetix.io/) ([rebranding announcement](https://blog.havven.io/havven-is-transforming-into-synthetix-2fdf727b8892), [source code](https://github.com/Havven/havven), [white paper](https://www.synthetix.io/uploads/synthetix_whitepaper.pdf)) - Decentralized stablecoin modeled on centralized closed loop payment networks
+    - [Synthetix](https://www.synthetix.io/) ([rebranding announcement](https://blog.havven.io/havven-is-transforming-into-synthetix-2fdf727b8892), [source code](https://github.com/Havven/havven), [white paper](https://www.synthetix.io/uploads/synthetix_whitepaper.pdf)) - Decentralized stablecoin modeled on centralized closed loop payment networks formerly known as Havven
      - [WBTC](https://www.wbtc.network) ([source code](https://github.com/WrappedBTC/bitcoin-token-smart-contracts), [white paper](https://www.wbtc.network/assets/wrapped-tokens-whitepaper.pdf)) - ERC-20 token backed 1:1 by Bitcoin.
 - Algorithmic
   - Ethereum
     - ~~[Basis](https://www.basis.io) ([white paper](https://www.basis.io/basis_whitepaper_en.pdf)) - Algorithmic stablecoin that "can be robustly pegged to arbitrary assets or baskets of goods"~~ - shut down due to inability to release tokens without securities classification in the US
     - [Carbon](https://fiat.carbon.money) ([white paper](https://www.carbon.money/whitepaper.pdf)) - Stablecoin that will be composed of a basket of whitelisted tokens that is "functionally fiat-backed with the potential to whitelist an algorithmic stablecoin"
-    - [Ampleforth](https://www.ampleforth.org/) ([rebranding announcement](https://medium.com/ampleforth/fragments-to-ampleforth-thoughts-behind-the-name-change-e38bf95077b2), [white paper](https://www.ampleforth.org/paper/)) - Monetary policy-based stablecoin protocol
+    - [Ampleforth](https://www.ampleforth.org/) ([rebranding announcement](https://medium.com/ampleforth/fragments-to-ampleforth-thoughts-behind-the-name-change-e38bf95077b2), [white paper](https://www.ampleforth.org/paper/)) - Monetary policy-based stablecoin protocol formerly known as Fragments
     - [Terra](https://terra.money) ([white paper](https://terra.money/static/Terra_White_paper.pdf)) - Protocol that ensures price-stability by algorithmically expanding and contracting supply
 
 <a name="lending-protocols" />
@@ -76,7 +76,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Ethlend](http://ethlend.io) ([source code](https://github.com/ETHLend), [white paper](https://github.com/ETHLend/Documentation/blob/master/ETHLendWhitePaper.md)) - Marketplace for peer-to-peer lending
   - [Lendroid](https://www.lendroid.com) ([source code](https://github.com/lendroidproject), [white paper](https://uploads-ssl.webflow.com/5b3d0e23faf03c5dc943df64/5b3d0e23faf03c96e243df86_whitepaper-margin-trading-2-18.pdf)) - Protocol for decentralized lending, margin trading, and short selling
   - [Marble](https://marble.org) ([source code](https://github.com/marbleprotocol)) - "Flash lending" protocol for borrowing "Ether and ERC20 tokens to take advantage of arbitrage opportunities on Ethereum"
-  - [Ripio](https://ripiocredit.network/) ([source code](https://github.com/ripio/), [white paper](https://ripiocredit.network/wp/RCN%20Whitepaper%20ENG.pdf)) - P2P global credit network protocol based on cosigned smart contracts.
+  - [Ripio](https://ripiocredit.network/) ([source code](https://github.com/risynpio/), [white paper](https://ripiocredit.network/wp/RCN%20Whitepaper%20ENG.pdf)) - P2P global credit network protocol based on cosigned smart contracts
 
 <a name="derivative-protocols" />
 
@@ -117,13 +117,13 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 - Ethereum
   - [Harbor/R-Token](https://harbor.com) ([source code](https://github.com/harborhq), [white paper](https://harbor.com/rtokenwhitepaper.pdf)) - Compliant protocol for standardizing crypto-securities issuance and trading
   - [Polymath/ST-20](https://polymath.network) ([source code](https://github.com/PolymathNetwork), original white paper removed from website but is archived [here](https://whitepaper.io/document/57/polymath-whitepaper)) - Platform for tokenizing securities
-  - [Abacus](https://abacusprotocol.com) ([soure code](https://github.com/abacusfi), [white paper](https://github.com/abacusfi/whitepaper/blob/master/whitepaper.pdf) - Protocol for permissioned tokens
+  - [Abacus](https://abacusprotocol.com) ([soure code](https://github.com/abacusfi), [white paper](https://github.com/abacusfi/whitepaper/blob/master/whitepaper.pdf)) - Protocol for permissioned tokens
 
 <a name="kyc-aml-identity" />
 
 ## KYC/AML/Identity
 - Ethereum
-  - [Bloom](https://bloom.co) ([source code](https://github.com/hellobloom), [white paper](https://bloom.co/whitepaper.pdf)] - Protocol for identity & credit-scoring
+  - [Bloom](https://bloom.co) ([source code](https://github.com/hellobloom), [white paper](https://bloom.co/whitepaper.pdf)) - Protocol for identity & credit-scoring
   - [Wyre](https://www.sendwyre.com) ([source code](https://github.com/sendwyre), [Medium post](https://blog.sendwyre.com/announcing-the-wyre-sdk-on-ramps-off-ramps-in-under-10-lines-of-code-f2b127eccb5d)) - Compliance SDK that mints ERC-721 tokens to the addresses of verified users
 
 <a name="applications-tools" />
@@ -141,14 +141,11 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 ## Analytics
 - Ethereum
   - [0xTracker](https://0xtracker.com) - 0x protocol trade explorer and decentralised ERC-20 token price index
+  - [CuriousGiraffe](https://www.curiousgiraffe.io) - Analytics for [AirSwap](https://www.curiousgiraffe.io/airswap/), [Augur](https://www.curiousgiraffe.io/augur/), [Compound](https://www.curiousgiraffe.io/compound/), and [KyberSwap](https://www.curiousgiraffe.io/kyberswap/)
   - [DEX Terminal](https://dexterminal.com) - Dashboard of decentralized finance activities, from exchange volume to lending/borrowing rates
   - [ETH in DeFi](https://mikemcdonald.github.io/eth-defi/) - Chart of the amount of ETH locked in DeFi products (Maker, Compound, Augur, dYdX, Uniswap)
   - [MakerScan](https://makerscan.io) - Explorer for MakerDao
-  - [MKR Tools](https://mkr.tools/) - Another explorer for MakerDao
-  - [Compound Analytics](https://www.curiousgiraffe.io/compound/) - Explorer for Compound
-  - [Augur Analytics](https://www.curiousgiraffe.io/augur/) - Explorer for Augur
-  - [AirSwap Analytics](https://www.curiousgiraffe.io/airswap/) - Explorer for AirSwap
-  - [KyberSwap Analytics](https://www.curiousgiraffe.io/kyberswap/) - Explorer for Kyberswap
+  - [MKR Tools](https://mkr.tools/) - Explorer for MakerDao
 
 <a name="misc" />
 
