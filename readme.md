@@ -66,7 +66,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - Ethereum
     - [Dai Stablecoin from Maker](https://makerdao.com/dai) ([source code](https://github.com/makerdao), [white paper](https://makerdao.com/whitepaper/)) - Stablecoin based on smart contracts for creating collateralized debt positions
     - [Synthetix](https://www.synthetix.io/) ([rebranding announcement](https://blog.havven.io/havven-is-transforming-into-synthetix-2fdf727b8892), [source code](https://github.com/Havven/havven), [white paper](https://www.synthetix.io/uploads/synthetix_whitepaper.pdf)) - Decentralized stablecoin modeled on centralized closed loop payment networks formerly known as Havven
-     - [WBTC](https://www.wbtc.network) ([source code](https://github.com/WrappedBTC/bitcoin-token-smart-contracts), [white paper](https://www.wbtc.network/assets/wrapped-tokens-whitepaper.pdf)) - ERC-20 token backed 1:1 by Bitcoin.
+     - [WBTC](https://www.wbtc.network) ([source code](https://github.com/WrappedBTC/bitcoin-token-smart-contracts), [white paper](https://www.wbtc.network/assets/wrapped-tokens-whitepaper.pdf)) - ERC-20 token backed 1:1 by Bitcoin
 - Algorithmic
   - Ethereum
     - ~~[Basis](https://www.basis.io) ([white paper](https://www.basis.io/basis_whitepaper_en.pdf)) - Algorithmic stablecoin that "can be robustly pegged to arbitrary assets or baskets of goods"~~ - shut down due to inability to release tokens without securities classification in the US
@@ -84,7 +84,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Ethlend](http://ethlend.io) ([source code](https://github.com/ETHLend), [white paper](https://github.com/ETHLend/Documentation/blob/master/ETHLendWhitePaper.md)) - Marketplace for peer-to-peer lending
   - [Lendroid](https://www.lendroid.com) ([source code](https://github.com/lendroidproject), [white paper](https://uploads-ssl.webflow.com/5b3d0e23faf03c5dc943df64/5b3d0e23faf03c96e243df86_whitepaper-margin-trading-2-18.pdf)) - Protocol for decentralized lending, margin trading, and short selling
   - [Marble](https://marble.org) ([source code](https://github.com/marbleprotocol)) - "Flash lending" protocol for borrowing "Ether and ERC20 tokens to take advantage of arbitrage opportunities on Ethereum"
-  - [Ripio](https://ripiocredit.network/) ([source code](https://github.com/risynpio/), [white paper](https://ripiocredit.network/wp/RCN%20Whitepaper%20ENG.pdf)) - P2P global credit network protocol based on cosigned smart contracts
+  - [Ripio](https://ripiocredit.network/) ([source code](https://github.com/ripio/), [white paper](https://ripiocredit.network/wp/RCN%20Whitepaper%20ENG.pdf)) - P2P global credit network protocol based on cosigned smart contracts
 
 <a name="derivative-protocols" />
 
@@ -99,7 +99,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Gnosis](http://gnosis.pm) ([source code](https://github.com/gnosis), [white paper](https://gnosis.pm/assets/pdf/gnosis-whitepaper.pdf)) - Decentralized prediction market protocol
   - [Market](https://marketprotocol.io) ([source code](https://github.com/MARKETProtocol), [white paper](https://marketprotocol.io/assets/MARKET_Protocol-Whitepaper.pdf)) - Protocol for structuring peer-to-peer agreements that settle in the future based on the price of a reference asset
   - [UMA](https://umaproject.org) ([white paper](https://umaproject.org/UMA-whitepaper.pdf)) - Protocol that allows any two counterparties to design and create their own financial contracts that are secured with economic incentives alone, making them self-enforcing and "universally accessible"
-  - [Veil](https://veil.co) ([launch post](https://medium.com/veil-blog/introducing-veil-649036f9d492)) - Peer-to-peer prediction market and derivatives platform built on top of Augur, 0x, and Ethereum.
+  - [Veil](https://veil.co) ([launch post](https://medium.com/veil-blog/introducing-veil-649036f9d492)) - Peer-to-peer prediction market and derivatives platform built on top of Augur, 0x, and Ethereum
 
 
 <a name="bundling-protocols" />
