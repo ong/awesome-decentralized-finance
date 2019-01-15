@@ -39,6 +39,10 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Uniswap](https://uniswap.io) ([source code](https://github.com/Uniswap), [white paper](https://hackmd.io/C-DvwDSfSxuh-Gd4WKE_ig)) - "Public good"-oriented interface for ERC-20 token exchange with zero rent-extraction.
 
 - [Stellar](https://www.stellar.org/developers/guides/concepts/exchange.html) ([source code](https://github.com/stellar), [white paper](https://www.stellar.org/papers/stellar-consensus-protocol.pdf)) - Decentralized protocol for financial applications, including support for decentralized exchange
+  - [StellarX](https://www.stellarx.com/) (closed source) - A UI for the native Stellar DEX built by [Interstellar](https://interstellar.com/).
+  - [Interstellar.exchange](https://interstellar.exchange/) (closed source) - A UI for the native Stellar DEX built by [Fintech](https://www.fintech.cm/)—not related to the company Interstellar.
+  - [Stellarport](https://stellarport.io) (closed source - [org GitHub](https://github.com/stellarport)) - A UI for the Stellar DEX.
+  - [Stellarterm](https://stellarterm.com/) ([source](https://github.com/stellarterm/stellarterm)) - An open-source UI for the Stellar Dex.
 
 <a name="stablecoins" />
 
@@ -53,6 +57,10 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
     - [Paxos](https://www.paxos.com/standard/) ([source code](https://github.com/paxosglobal/pax-contracts), [white paper](https://standard.paxos.com/whitepaper.pdf)) - ERC-20 stablecoin issued by Paxos Trust Company
     - [TrueUSD](https://www.trusttoken.com/trueusd/) ([source code](https://github.com/trusttoken/trueUSD)) - ERC-20 stablecoin with KYC/AML issued by TrustToken
     - [DGX Token from Digix](https://digix.global/dgx) ([source code](https://github.com/DigixGlobal), [white paper](https://github.com/DigixGlobal/digix-press-kit/blob/master/digix-whitepaper.pdf)) - Token which represents 1 gram of gold on Ethereum
+  - Stellar
+    - [AnchorUSD](https://www.anchorusd.com/) (closed source) - Stellar-based token that promises deposits are held 1:1 in audited, US-based bank accounts. KYC/AML compliant.
+    - [Stronghold](https://stronghold.co/stronghold-usd/) (closed source) - Stellar-based token that provides a KYC/AML compliant USD stablecoin.
+    - [White Standard](https://thewhitecompanyus.com/white-standard/) (closed source) - Stellar-based tokens that provide stablecoins for a variety of currencies.
 - Collateralized
   - [Celo](https://celo.org) (white paper available via Digify by submitting email on [website](https://celo.org)) - Over-collateralized stablecoin targeting the unbanked using its own distributed ledger
   - Ethereum
@@ -118,6 +126,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Harbor/R-Token](https://harbor.com) ([source code](https://github.com/harborhq), [white paper](https://harbor.com/rtokenwhitepaper.pdf)) - Compliant protocol for standardizing crypto-securities issuance and trading
   - [Polymath/ST-20](https://polymath.network) ([source code](https://github.com/PolymathNetwork), original white paper removed from website but is archived [here](https://whitepaper.io/document/57/polymath-whitepaper)) - Platform for tokenizing securities
   - [Abacus](https://abacusprotocol.com) ([soure code](https://github.com/abacusfi), [white paper](https://github.com/abacusfi/whitepaper/blob/master/whitepaper.pdf)) - Protocol for permissioned tokens
+- [Stellar](https://www.stellar.org/) ([source code](https://github.com/stellar/stellar-core), [docs](https://www.stellar.org/developers/guides/concepts/assets.html)) - Stellar has first-party support for issuing arbitrary tokens
 
 <a name="kyc-aml-identity" />
 
