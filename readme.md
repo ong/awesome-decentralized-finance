@@ -41,7 +41,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 - [Stellar](https://www.stellar.org/developers/guides/concepts/exchange.html) ([source code](https://github.com/stellar), [white paper](https://www.stellar.org/papers/stellar-consensus-protocol.pdf)) - Decentralized protocol for financial applications, including support for decentralized exchange
   - [StellarX](https://www.stellarx.com/) (closed source) - A UI for the native Stellar DEX built by [Interstellar](https://interstellar.com/).
   - [Interstellar.exchange](https://interstellar.exchange/) (closed source) - A UI for the native Stellar DEX built by [Fintech](https://www.fintech.cm/)—not related to the company Interstellar.
-  - [Stellarport](https://stellarport.io) (closed source - [org GitHub](https://github.com/stellarport)) - A UI for the Stellar DEX.
+  - [Stellarport](https://stellarport.io) (closed source) - A UI for the Stellar DEX.
   - [Stellarterm](https://stellarterm.com/) ([source](https://github.com/stellarterm/stellarterm)) - An open-source UI for the Stellar Dex.
 
 <a name="stablecoins" />
