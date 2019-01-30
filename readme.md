@@ -11,6 +11,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 - [Decentralized Exchange Protocols](#decentralized-exchange-protocols)
 - [Stablecoins](#stablecoins)
 - [Lending Protocols](#lending-protocols)
+- [Banks](#banks)
 - [Derivative Protocols/Prediction Markets](#derivative-protocols)
 - [Bundling Protocols](#bundling-protocols)
 - [Tokenization Protocols](#tokenization-protocols)
@@ -86,6 +87,13 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Marble](https://marble.org) ([source code](https://github.com/marbleprotocol)) - "Flash lending" protocol for borrowing "Ether and ERC20 tokens to take advantage of arbitrage opportunities on Ethereum"
   - [Ripio](https://ripiocredit.network/) ([source code](https://github.com/ripio/), [white paper](https://ripiocredit.network/wp/RCN%20Whitepaper%20ENG.pdf)) - P2P global credit network protocol based on cosigned smart contracts
 
+<a name="banks" />
+
+## Banks
+
+- Ethereum
+  - [InstaDApp](https://instadapp.io/) ([source code](https://github.com/InstaDApp/InstaContract)) - Decentralized Bank which build on top of MakerDAO Protocol
+
 <a name="derivative-protocols" />
 
 ## Derivative Protocols/Prediction Markets
@@ -101,7 +109,6 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [UMA](https://umaproject.org) ([white paper](https://umaproject.org/UMA-whitepaper.pdf)) - Protocol that allows any two counterparties to design and create their own financial contracts that are secured with economic incentives alone, making them self-enforcing and "universally accessible"
   - [Veil](https://veil.co) ([launch post](https://medium.com/veil-blog/introducing-veil-649036f9d492)) - Peer-to-peer prediction market and derivatives platform built on top of Augur, 0x, and Ethereum
   - [Guesser](https://www.guesser.io/landing) ([launch post](https://medium.com/guesser/insights-into-augur-62ad41f4cf38)) - Hottest short markets over the top of Augur
-
 
 <a name="bundling-protocols" />
 
