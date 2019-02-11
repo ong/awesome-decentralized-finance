@@ -11,6 +11,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 - [Decentralized Exchange Protocols](#decentralized-exchange-protocols)
 - [Stablecoins](#stablecoins)
 - [Lending Protocols](#lending-protocols)
+- [Banks](#banks)
 - [Derivative Protocols/Prediction Markets](#derivative-protocols)
 - [Bundling Protocols](#bundling-protocols)
 - [Tokenization Protocols](#tokenization-protocols)
@@ -34,7 +35,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Hydro Protocol](https://hydroprotocol.io/) ([fork announcement](https://medium.com/hydro-protocol/why-we-are-forking-0x-97dc48ee0426), [source code](https://github.com/HydroProtocol), original white paper removed from website but is archived [here](https://whitepaper.io/document/170/hydro-protocol-whitepaper)) - A fork of 0x from DDEX with new order schema, a new matching engine, a different liquidity sharing model, and no ZRX token
   - [Kyber](https://kyber.network) ([source code](https://github.com/kybernetwork), original white paper removed from website but is archived [here](https://whitepaper.io/document/43/kyber-network-whitepaper)) - On-chain protocol for decentralized token swaps and for easy application integration
   - [Loopring](https://loopring.org) ([source code](https://github.com/loopring), [white paper](https://loopring.org/resources.html)) - Protocol for building decentralized exchanges
-  - [Republic](https://republicprotocol.com) ([source code](https://github.com/republicprotocol), [white paper](https://releases.republicprotocol.com/whitepaper/1.0.0/whitepaper_1.0.0.pdf)) - Decentralized dark pool protocol for atomic swaps of digital assets
+  - [Ren](https://renproject.io/) ([source code](https://github.com/renproject), [white paper](https://renproject.io/litepaper.pdf)) - Decentralized dark pool protocol for atomic swaps of digital assets formerly known as Republic
   - [Swap / AirSwap's Protocol](https://airswap.io) ([source code](https://github.com/airswap), [white paper](https://swap.tech/whitepaper/)) - Protocol for peer-to-peer trading of ERC-20 tokens
   - [Uniswap](https://uniswap.io) ([source code](https://github.com/Uniswap), [white paper](https://hackmd.io/C-DvwDSfSxuh-Gd4WKE_ig)) - "Public good"-oriented interface for ERC-20 token exchange with zero rent-extraction.
 
@@ -65,13 +66,13 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Celo](https://celo.org) (white paper available via Digify by submitting email on [website](https://celo.org)) - Over-collateralized stablecoin targeting the unbanked using its own distributed ledger
   - Ethereum
     - [Dai Stablecoin from Maker](https://makerdao.com/dai) ([source code](https://github.com/makerdao), [white paper](https://makerdao.com/whitepaper/)) - Stablecoin based on smart contracts for creating collateralized debt positions
-    - [Synthetix](https://www.synthetix.io/) ([rebranding announcement](https://blog.havven.io/havven-is-transforming-into-synthetix-2fdf727b8892), [source code](https://github.com/Havven/havven), [white paper](https://www.synthetix.io/uploads/synthetix_whitepaper.pdf)) - Decentralized stablecoin modeled on centralized closed loop payment networks formerly known as Havven
+    - [Synthetix](https://www.synthetix.io/) ([rebranding announcement](https://blog.havven.io/havven-is-transforming-into-synthetix-2fdf727b8892), [source code](https://github.com/Synthetixio/synthetix), [white paper](https://www.synthetix.io/uploads/synthetix_whitepaper.pdf)) - Decentralized stablecoin modeled on centralized closed loop payment networks formerly known as Havven
      - [WBTC](https://www.wbtc.network) ([source code](https://github.com/WrappedBTC/bitcoin-token-smart-contracts), [white paper](https://www.wbtc.network/assets/wrapped-tokens-whitepaper.pdf)) - ERC-20 token backed 1:1 by Bitcoin
 - Algorithmic
   - Ethereum
     - ~~[Basis](https://www.basis.io) ([white paper](https://www.basis.io/basis_whitepaper_en.pdf)) - Algorithmic stablecoin that "can be robustly pegged to arbitrary assets or baskets of goods"~~ - shut down due to inability to release tokens without securities classification in the US
     - [Carbon](https://fiat.carbon.money) ([white paper](https://www.carbon.money/whitepaper.pdf)) - Stablecoin that will be composed of a basket of whitelisted tokens that is "functionally fiat-backed with the potential to whitelist an algorithmic stablecoin"
-    - [Ampleforth](https://www.ampleforth.org/) ([rebranding announcement](https://medium.com/ampleforth/fragments-to-ampleforth-thoughts-behind-the-name-change-e38bf95077b2), [white paper](https://www.ampleforth.org/paper/)) - Monetary policy-based stablecoin protocol formerly known as Fragments
+    - [Ampleforth](https://www.ampleforth.org/) ([rebranding announcement](https://medium.com/ampleforth/fragments-to-ampleforth-thoughts-behind-the-name-change-e38bf95077b2), [source code](https://github.com/ampleforth), [white paper](https://www.ampleforth.org/paper/)) - Monetary policy-based stablecoin protocol formerly known as Fragments
     - [Terra](https://terra.money) ([white paper](https://terra.money/static/Terra_White_paper.pdf)) - Protocol that ensures price-stability by algorithmically expanding and contracting supply
 
 <a name="lending-protocols" />
@@ -79,12 +80,19 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 ## Lending Protocols
 
 - Ethereum
-  - [Compound](http://compound.finance) ([source code](https://github.com/compound-finance/), [white paper](https://compound.finance/documents/Compound.Whitepaper.v04-83de48b6622ddd665234b41076d04c8b.pdf?vsn=d)) - Protocol for algorithmic money markets
+  - [Compound](https://compound.finance) ([source code](https://github.com/compound-finance/), [white paper](https://compound.finance/documents/Compound.Whitepaper.v04-83de48b6622ddd665234b41076d04c8b.pdf?vsn=d)) - Protocol for algorithmic money markets
   - [Dharma](https://dharma.io) ([source code](https://github.com/dharmaprotocol), [white paper](https://whitepaper.dharma.io)) - Protocol for building lending products using tokenized debt
-  - [Ethlend](http://ethlend.io) ([source code](https://github.com/ETHLend), [white paper](https://github.com/ETHLend/Documentation/blob/master/ETHLendWhitePaper.md)) - Marketplace for peer-to-peer lending
+  - [Ethlend](https://ethlend.io) ([source code](https://github.com/ETHLend), [white paper](https://github.com/ETHLend/Documentation/blob/master/ETHLendWhitePaper.md)) - Marketplace for peer-to-peer lending
   - [Lendroid](https://www.lendroid.com) ([source code](https://github.com/lendroidproject), [white paper](https://uploads-ssl.webflow.com/5b3d0e23faf03c5dc943df64/5b3d0e23faf03c96e243df86_whitepaper-margin-trading-2-18.pdf)) - Protocol for decentralized lending, margin trading, and short selling
   - [Marble](https://marble.org) ([source code](https://github.com/marbleprotocol)) - "Flash lending" protocol for borrowing "Ether and ERC20 tokens to take advantage of arbitrage opportunities on Ethereum"
   - [Ripio](https://ripiocredit.network/) ([source code](https://github.com/ripio/), [white paper](https://ripiocredit.network/wp/RCN%20Whitepaper%20ENG.pdf)) - P2P global credit network protocol based on cosigned smart contracts
+
+<a name="banks" />
+
+## Banks
+
+- Ethereum
+  - [InstaDApp](https://instadapp.io/) ([source code](https://github.com/InstaDApp/InstaContract)) - Decentralized Bank which build on top of MakerDAO Protocol
 
 <a name="derivative-protocols" />
 
@@ -95,12 +103,12 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [bZx](https://b0x.network) ([source code](https://github.com/bZxNetwork), [white paper](https://b0x.network/pdfs/b0x_white_paper.pdf)) - 0x-integrated protocol for decentralized, peer-to-peer margin funding and trading
    - [CDx](https://cdxproject.com) ([white paper](https://cdxproject.com/assets/resources/cdx-whitepaper.pdf)) - Protocol for tokenized credit default swaps
    - [Daxia](https://www.daxia.us) ([source code](https://github.com/DecentralizedDerivatives), [white paper](https://github.com/DecentralizedDerivatives/DRCT_standard/blob/master/InDepthOverview.md)) - Tokenized derivatives protocol
-  - [dYdX](http://dydx.exchange) ([source code](https://github.com/dydxprotocol/protocol), [white paper](https://whitepaper.dydx.exchange/)) - Margin-trading and options protocols
-  - [Gnosis](http://gnosis.pm) ([source code](https://github.com/gnosis), [white paper](https://gnosis.pm/assets/pdf/gnosis-whitepaper.pdf)) - Decentralized prediction market protocol
+  - [dYdX](https://dydx.exchange) ([source code](https://github.com/dydxprotocol/protocol), [white paper](https://whitepaper.dydx.exchange/)) - Margin-trading and options protocols
+  - [Gnosis](https://gnosis.pm) ([source code](https://github.com/gnosis), [white paper](https://gnosis.pm/assets/pdf/gnosis-whitepaper.pdf)) - Decentralized prediction market protocol
   - [Market](https://marketprotocol.io) ([source code](https://github.com/MARKETProtocol), [white paper](https://marketprotocol.io/assets/MARKET_Protocol-Whitepaper.pdf)) - Protocol for structuring peer-to-peer agreements that settle in the future based on the price of a reference asset
   - [UMA](https://umaproject.org) ([white paper](https://umaproject.org/UMA-whitepaper.pdf)) - Protocol that allows any two counterparties to design and create their own financial contracts that are secured with economic incentives alone, making them self-enforcing and "universally accessible"
   - [Veil](https://veil.co) ([launch post](https://medium.com/veil-blog/introducing-veil-649036f9d492)) - Peer-to-peer prediction market and derivatives platform built on top of Augur, 0x, and Ethereum
-
+  - [Guesser](https://www.guesser.io/landing) ([launch post](https://medium.com/guesser/insights-into-augur-62ad41f4cf38)) - Hottest short markets over the top of Augur
 
 <a name="bundling-protocols" />
 
@@ -125,7 +133,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 - Ethereum
   - [Harbor/R-Token](https://harbor.com) ([source code](https://github.com/harborhq), [white paper](https://harbor.com/rtokenwhitepaper.pdf)) - Compliant protocol for standardizing crypto-securities issuance and trading
   - [Polymath/ST-20](https://polymath.network) ([source code](https://github.com/PolymathNetwork), original white paper removed from website but is archived [here](https://whitepaper.io/document/57/polymath-whitepaper)) - Platform for tokenizing securities
-  - [Abacus](https://abacusprotocol.com) ([soure code](https://github.com/abacusfi), [white paper](https://github.com/abacusfi/whitepaper/blob/master/whitepaper.pdf)) - Protocol for permissioned tokens
+  - [Abacus](https://abacusfi.com/) ([soure code](https://github.com/abacusfi), [white paper](https://github.com/abacusfi/whitepaper/blob/master/whitepaper.pdf)) - Protocol for permissioned tokens
 - [Stellar](https://www.stellar.org/) ([source code](https://github.com/stellar/stellar-core), [docs](https://www.stellar.org/developers/guides/concepts/assets.html)) - Stellar has first-party support for issuing arbitrary tokens
 
 <a name="kyc-aml-identity" />
@@ -146,6 +154,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Multis](https://multis.co) ([white paper](https://multis.co/white-paper.html)) - Interface for multisig contracts positioned as "cryptobank for companies"
   - [Settle](https://settle.finance) - Web interface that combines chat with different crypto tools (including portfolio tracking and integration with DeFi protocols) and an "app store" for developers
   - [Zerion](https://zerion.io) ([source code](https://github.com/zeriontech)) - Interface to decentralized finance protocols positioned as "trustless banking"
+  - [AMP](https://amp.credit/) - DeFi Software Developer with [EasyCDP](https://easycdp.com/), [SilverWire](https://silverwire.io/), [MultiSupply](https://multi.supply/), and [StableWire](https://stablewire.com/)
 
 <a name="analytics" />
 
@@ -168,7 +177,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 - Ethereum
   - [8x Protocol](https://8xprotocol.com) ([source code](https://github.com/8xprotocol), [white paper](https://rawcdn.githack.com/8xprotocol/whitepaper/master/latest.pdf)) - Protocol for decentralized subscription payment
   - [AZTEC Protocol](https://www.aztecprotocol.com) ([source code](https://github.com/AztecProtocol/AZTEC), [white paper](https://github.com/AztecProtocol/AZTEC/blob/master/AZTEC.pdf)) - Privacy-enabling protocol for confidential transactions on the Ethereum network
-  - [Centrifuge](http://www.centrifuge.io) ([white paper](https://www.centrifuge.io/assets/Centrifuge%20OS%20White%20Paper.pdf)) - Platform for financial supply chain, including exchange of invoices, purchase orders, etc.
+  - [Centrifuge](https://www.centrifuge.io) ([source code](https://github.com/centrifuge), [white paper](https://centrifuge.io/centrifuge_os_white_paper.pdf)) - Platform for financial supply chain, including exchange of invoices, purchase orders, etc.
   - [Groundhog](https://groundhog.network) - "End-to-end" platform for decentralized recurring subscription payments
 
 <a name="community" />
@@ -187,4 +196,4 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
