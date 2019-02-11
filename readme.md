@@ -87,13 +87,6 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Marble](https://marble.org) ([source code](https://github.com/marbleprotocol)) - "Flash lending" protocol for borrowing "Ether and ERC20 tokens to take advantage of arbitrage opportunities on Ethereum"
   - [Ripio](https://ripiocredit.network/) ([source code](https://github.com/ripio/), [white paper](https://ripiocredit.network/wp/RCN%20Whitepaper%20ENG.pdf)) - P2P global credit network protocol based on cosigned smart contracts
 
-<a name="banks" />
-
-## Banks
-
-- Ethereum
-  - [InstaDApp](https://instadapp.io/) ([source code](https://github.com/InstaDApp/InstaContract)) - Decentralized Bank which build on top of MakerDAO Protocol
-
 <a name="derivative-protocols" />
 
 ## Derivative Protocols/Prediction Markets
