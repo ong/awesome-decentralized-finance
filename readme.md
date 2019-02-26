@@ -133,9 +133,10 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 ## KYC/AML/Identity
 - Ethereum
   - [Bloom](https://bloom.co) ([source code](https://github.com/hellobloom), [white paper](https://bloom.co/whitepaper.pdf)) - Protocol for identity & credit-scoring
-  - [Wyre](https://www.sendwyre.com) ([source code](https://github.com/sendwyre), [Medium post](https://blog.sendwyre.com/announcing-the-wyre-sdk-on-ramps-off-ramps-in-under-10-lines-of-code-f2b127eccb5d)) - Compliance SDK that mints ERC-721 tokens to the addresses of verified users
   - [Project Hydro](https://projecthydro.org/) ([source code](https://github.com/HydroBlockchain), [white paper](https://github.com/HydroBlockchain/hydro-docs)) - Decentralized ecosystem using cutting-edge cryptography to secure user accounts, identities, and transactions
   - [SelfKey](https://selfkey.org) ([source code](https://github.com/SelfKeyFoundation/Identity-Wallet), [white paper](https://selfkey.org/selfkey-whitepaper)) - "Self-sovereign" identity management system that aims to integrate with various financial services
+  - [Wyre](https://www.sendwyre.com) ([source code](https://github.com/sendwyre), [Medium post](https://blog.sendwyre.com/announcing-the-wyre-sdk-on-ramps-off-ramps-in-under-10-lines-of-code-f2b127eccb5d)) - Compliance SDK that mints ERC-721 tokens to the addresses of verified users
+
 
 <a name="applications-tools" />
 
