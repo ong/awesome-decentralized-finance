@@ -119,6 +119,13 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Fund Protocol](https://www.coinalpha.com/projects) ([source code](https://github.com/CoinAlpha/fund-protocol)) - Protocol for fund administration on the Ethereum blockchain
   - [Melonport](https://melonport.com) ([source code](https://github.com/melonproject), [green paper](https://github.com/melonproject/paper/blob/master/melonprotocol.pdf)) - Protocol for digital asset management
 
+<a name="insurance-protocols" />
+
+## Insurance Protocols
+- Ethereum
+ - [Etherisc](https://etherisc.com/) ([source code](https://github.com/etherisc), [white paper](https://etherisc.com/files/etherisc_whitepaper_1.01_en.pdf)) - Protocol for building decentralized insurance products
+ - [Nexus Mutual](https://www.nexusmutual.io/) ([source code](https://github.com/somish/NexusMutual), [white paper](https://www.nexusmutual.io/assets/docs/nmx_white_paperv2_3.pdf)) - Digital co-operative for covering smart contract bugs/hacks.
+
 <a name="tokenization-protocols" />
 
 ## Tokenization Protocols
