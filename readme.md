@@ -124,7 +124,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 ## Insurance Protocols
 - Ethereum
   - [Etherisc](https://etherisc.com/) ([source code](https://github.com/etherisc), [white paper](https://etherisc.com/files/etherisc_whitepaper_1.01_en.pdf)) - Protocol for building decentralized insurance products
-  - [Nexus Mutual](https://www.nexusmutual.io/) ([source code](https://github.com/somish/NexusMutual), [white paper](https://www.nexusmutual.io/assets/docs/nmx_white_paperv2_3.pdf)) - Digital co-operative for covering smart contract bugs/hacks.
+  - [Nexus Mutual](https://www.nexusmutual.io/) ([source code](https://github.com/somish/NexusMutual), [white paper](https://www.nexusmutual.io/assets/docs/nmx_white_paperv2_3.pdf)) - Digital co-operative for covering smart contract bugs/hacks
 
 <a name="tokenization-protocols" />
 
