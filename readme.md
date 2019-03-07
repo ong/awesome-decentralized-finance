@@ -156,7 +156,6 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 - Ethereum
   - [0xTracker](https://0xtracker.com) - 0x protocol trade explorer and decentralised ERC-20 token price index
   - [CuriousGiraffe](https://www.curiousgiraffe.io) - Analytics for [AirSwap](https://www.curiousgiraffe.io/airswap/), [Augur](https://www.curiousgiraffe.io/augur/), [Compound](https://www.curiousgiraffe.io/compound/), and [KyberSwap](https://www.curiousgiraffe.io/kyberswap/)
-  - [DeFi Pulse](https://defipulse.com) - A tracker for key metrics of top decentralized finance protocols
   - [DEX Terminal](https://dexterminal.com) - Dashboard of decentralized finance activities, from exchange volume to lending/borrowing rates
   - [ETH in DeFi](https://mikemcdonald.github.io/eth-defi/) - Chart of the amount of ETH locked in DeFi products (Maker, Compound, Augur, dYdX, Uniswap)
   - [Loanscan](https://loanscan.io/) - Explorer for Ethereum loans
