@@ -171,7 +171,8 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 
 ## Accounting
 – [Balanc3](https://www.balanc3.net/) – accounting, consolidation, reporting, and analytics tools for blockchain assets
-– [tokentax](https://tokentax.co/) – a tool to report taxes on bitcoin, altcoins, and all other digital currencies.
+– [Tokentax](https://tokentax.co/) – a tool to report taxes on bitcoin, altcoins, and all other digital currencies.
+– [Veriledger](https://veriledger.io/) – accounting tools for crypto-enabled businesses
 
 <a name="misc" />
 
