@@ -29,7 +29,7 @@ I just translated the original text, translated it into Chinese, and the copyrig
 
 <a name="decentralized-exchange-protocols" />
 
-## Decentralized Exchange Protocols 
+## Decentralized Exchange Protocols   去中心化交易所协议
 
 - [BitShares](https://bitshares.org/technology/decentralized-asset-exchange) ([source code](https://github.com/bitshares), [white paper](https://www.bitshares.foundation/download/articles/BitSharesBlockchain.pdf)) - Decentralized exchange protocol based on the Graphene blockchain   基于石墨烯的去中心化的交易所协议
 - Bitcoin
@@ -195,7 +195,7 @@ I just translated the original text, translated it into Chinese, and the copyrig
 
 <a name="misc" />
 
-## Misc
+## Misc  其他
 - Ethereum
   - [8x Protocol](https://8xprotocol.com) ([source code](https://github.com/8xprotocol), [white paper](https://rawcdn.githack.com/8xprotocol/whitepaper/master/latest.pdf)) - Protocol for decentralized subscription payment  去中心化的订阅付款协议
   - [AZTEC Protocol](https://www.aztecprotocol.com) ([source code](https://github.com/AztecProtocol/AZTEC), [white paper](https://github.com/AztecProtocol/AZTEC/blob/master/AZTEC.pdf)) - Privacy-enabling protocol for confidential transactions on the Ethereum network  用于以太坊网络上的机密交易的隐私启用协议
@@ -204,13 +204,13 @@ I just translated the original text, translated it into Chinese, and the copyrig
 
 <a name="community" />
 
-## Community
+## Community  社区
 * [DeFi Reddit](https://www.reddit.com/r/defi/)
 * [DeFi Telegram](https://t.me/de_fi)
 
 <a name="contributions" />
 
-## Contributions
+## Contributions  提供你的分享
 
 Your contributions are always welcome!
 
