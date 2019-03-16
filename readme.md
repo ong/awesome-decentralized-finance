@@ -4,7 +4,7 @@
 
 I just translated the original text, translated it into Chinese, and the copyright was owned by the original team.   
 
-我只是对原文进行了翻译，翻译成中文，著作权归原团队所有。 ![原始英文链接](https://github.com/ong/awesome-decentralized-finance)
+我只是对原文进行了翻译，翻译成中文，著作权归原团队所有。 [原始英文链接](https://github.com/ong/awesome-decentralized-finance)
 
 ### 精选的去中心金融（DeFi）的相关的项目、软件、资源。
 
