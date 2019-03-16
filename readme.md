@@ -146,48 +146,61 @@ I just translated the original text, translated it into Chinese, and the copyrig
 
 ## KYC/AML/Identity     KYC/AML/身份验证
 - Ethereum
-  - [Bloom](https://bloom.co) ([source code](https://github.com/hellobloom), [white paper](https://bloom.co/whitepaper.pdf)) - Protocol for identity & credit-scoring
-  - [Project Hydro](https://projecthydro.org/) ([source code](https://github.com/HydroBlockchain), [white paper](https://github.com/HydroBlockchain/hydro-docs)) - Decentralized ecosystem using cutting-edge cryptography to secure user accounts, identities, and transactions
-  - [SelfKey](https://selfkey.org) ([source code](https://github.com/SelfKeyFoundation/Identity-Wallet), [white paper](https://selfkey.org/selfkey-whitepaper)) - "Self-sovereign" identity management system that aims to integrate with various financial services
-  - [Wyre](https://www.sendwyre.com) ([source code](https://github.com/sendwyre), [Medium post](https://blog.sendwyre.com/announcing-the-wyre-sdk-on-ramps-off-ramps-in-under-10-lines-of-code-f2b127eccb5d)) - Compliance SDK that mints ERC-721 tokens to the addresses of verified users
-
+  - [Bloom](https://bloom.co) ([source code](https://github.com/hellobloom), [white paper](https://bloom.co/whitepaper.pdf)) - Protocol for identity & credit-scoring  身份和信用评分协议
+  - [Project Hydro](https://projecthydro.org/) ([source code](https://github.com/HydroBlockchain), [white paper](https://github.com/HydroBlockchain/hydro-docs)) - Decentralized ecosystem using cutting-edge cryptography to secure user accounts, identities, and transactions  使用尖端密码术来保护用户帐户，身份和交易的去中心化的生态系统
+  - [SelfKey](https://selfkey.org) ([source code](https://github.com/SelfKeyFoundation/Identity-Wallet), [white paper](https://selfkey.org/selfkey-whitepaper)) - "Self-sovereign" identity management system that aims to integrate with various financial services  旨在与各种金融服务相结合的“自我主权”身份管理系统
+  - [Wyre](https://www.sendwyre.com) ([source code](https://github.com/sendwyre), [Medium post](https://blog.sendwyre.com/announcing-the-wyre-sdk-on-ramps-off-ramps-in-under-10-lines-of-code-f2b127eccb5d)) - Compliance SDK that mints ERC-721 tokens to the addresses of verified users       Compliance SDK将ERC-721令牌缩减为已验证用户的地址
 
 <a name="applications-tools" />
 
-## Applications/Tools
+## Applications/Tools 应用集/工具集
 - Ethereum
   - [AMP](https://amp.credit/) - DeFi Software Developer with [EasyCDP](https://easycdp.com/), [SilverWire](https://silverwire.io/), [MultiSupply](https://multi.supply/), and [StableWire](https://stablewire.com/)
-  - [Bloqboard](https://bloqboard.com) - Lending platform for collateralized loans originated, settled, serviced, and managed on Ethereum and powered by Compound and Dharma
-  - [Fetch](https://hellofetch.co) - Application that is both a decentralized exchange aggregator for price discovery and trading and a dashboard for discovering and managing decentralized loans and borrowings
-  - [InstaDApp](https://instadapp.io) - "Decentralized bank" interface built on top of MakerDAO by developers of [MakerScan](https://makerscan.io)
+
+  - [Bloqboard](https://bloqboard.com) - Lending platform for collateralized loans originated, settled, serviced, and managed on Ethereum and powered by Compound and Dharma   抵押贷款的贷款平台由以太坊发起，结算，服务和管理，由Compound和Dharma提供支持
+
+  - [Fetch](https://hellofetch.co) - Application that is both a decentralized exchange aggregator for price discovery and trading and a dashboard for discovering and managing decentralized loans and borrowings 
+
+    应用程序既是用于价格发现和交易的去中心化的交换聚合器，也是用于发现和管理去中心化的贷款和借款的仪表板
+
+  - [InstaDApp](https://instadapp.io) - "Decentralized bank" interface built on top of MakerDAO by developers of [MakerScan](https://makerscan.io)  MakerScan开发人员在MakerDAO之上构建了“去中心化银行”界面
+
   - [Multis](https://multis.co) ([white paper](https://multis.co/white-paper.html)) - Interface for multisig contracts positioned as "cryptobank for companies"
+
+    定位为"加密银行公司"的多签的合同接口
+
   - [Settle](https://settle.finance) - Web interface that combines chat with different crypto tools (including portfolio tracking and integration with DeFi protocols) and an "app store" for developers
+
+    将聊天与不同加密工具（包括组合跟踪和与DeFi协议集成）和开发人员的“应用商店”相结合的Web界面
+
   - [Zerion](https://zerion.io) ([source code](https://github.com/zeriontech)) - Interface to decentralized finance protocols positioned as "trustless banking"
+
+    定位为“无信任银行”的去中心化的融资协议的接口
 
 <a name="analytics" />
 
-## Analytics
+## Analytics  分析
 - Ethereum
-  - [0xTracker](https://0xtracker.com) - 0x protocol trade explorer and decentralised ERC-20 token price index
+  - [0xTracker](https://0xtracker.com) - 0x protocol trade explorer and decentralised ERC-20 token price index  0x协议交易资源管理器和去中心化的ERC-20令牌价格指数
   - [CuriousGiraffe](https://www.curiousgiraffe.io) - Analytics for [AirSwap](https://www.curiousgiraffe.io/airswap/), [Augur](https://www.curiousgiraffe.io/augur/), [Compound](https://www.curiousgiraffe.io/compound/), and [KyberSwap](https://www.curiousgiraffe.io/kyberswap/)
-  - [DEX Terminal](https://dexterminal.com) - Dashboard of decentralized finance activities, from exchange volume to lending/borrowing rates
-  - [ETH in DeFi](https://mikemcdonald.github.io/eth-defi/) - Chart of the amount of ETH locked in DeFi products (Maker, Compound, Augur, dYdX, Uniswap)
+  - [DEX Terminal](https://dexterminal.com) - Dashboard of decentralized finance activities, from exchange volume to lending/borrowing rates  去中心化的金融活动的仪表板，从交换量到贷款/借款利率
+  - [ETH in DeFi](https://mikemcdonald.github.io/eth-defi/) - Chart of the amount of ETH locked in DeFi products (Maker, Compound, Augur, dYdX, Uniswap)  锁定在DeFi产品中的ETH数量图表（Maker，Compound，Augur，dYdX，Uniswap）
   - [Loanscan](https://loanscan.io/) - Explorer for Ethereum loans
   - [MakerScan](https://makerscan.io) - Explorer for MakerDao
   - [MKR Tools](https://mkr.tools/) - Explorer for MakerDao
   - [Uniswap ETH Liquidity](https://mikemcdonald.github.io/uniswap/eth-token-liquidity) - Chart of Uniswap's ETH liquidity by token
 - [DeFI Pulse](https://defipulse.com/) - Dashboard with info about locked amount in USD
 - [Stablecoin Index](https://stablecoinindex.com/) - Chart of prices biggest stablecoins
-- [Stable Report](https://stable.report/) - Weekly reports about stablecoins and list of most stablecoins
+- [Stable Report](https://stable.report/) - Weekly reports about stablecoins and list of most stablecoins  关于稳定币和大多数稳定币列表的每周报道
 
 <a name="misc" />
 
 ## Misc
 - Ethereum
-  - [8x Protocol](https://8xprotocol.com) ([source code](https://github.com/8xprotocol), [white paper](https://rawcdn.githack.com/8xprotocol/whitepaper/master/latest.pdf)) - Protocol for decentralized subscription payment
-  - [AZTEC Protocol](https://www.aztecprotocol.com) ([source code](https://github.com/AztecProtocol/AZTEC), [white paper](https://github.com/AztecProtocol/AZTEC/blob/master/AZTEC.pdf)) - Privacy-enabling protocol for confidential transactions on the Ethereum network
-  - [Centrifuge](https://www.centrifuge.io) ([source code](https://github.com/centrifuge), [white paper](https://centrifuge.io/centrifuge_os_white_paper.pdf)) - Platform for financial supply chain, including exchange of invoices, purchase orders, etc.
-  - [Groundhog](https://groundhog.network) - "End-to-end" platform for decentralized recurring subscription payments
+  - [8x Protocol](https://8xprotocol.com) ([source code](https://github.com/8xprotocol), [white paper](https://rawcdn.githack.com/8xprotocol/whitepaper/master/latest.pdf)) - Protocol for decentralized subscription payment  去中心化的订阅付款协议
+  - [AZTEC Protocol](https://www.aztecprotocol.com) ([source code](https://github.com/AztecProtocol/AZTEC), [white paper](https://github.com/AztecProtocol/AZTEC/blob/master/AZTEC.pdf)) - Privacy-enabling protocol for confidential transactions on the Ethereum network  用于以太坊网络上的机密交易的隐私启用协议
+  - [Centrifuge](https://www.centrifuge.io) ([source code](https://github.com/centrifuge), [white paper](https://centrifuge.io/centrifuge_os_white_paper.pdf)) - Platform for financial supply chain, including exchange of invoices, purchase orders, etc. 金融供应链平台，包括交换发票，采购订单等。
+  - [Groundhog](https://groundhog.network) - "End-to-end" platform for decentralized recurring subscription payments  去中心化的订阅付款的“端到端”平台
 
 <a name="community" />
 
