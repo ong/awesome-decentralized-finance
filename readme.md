@@ -163,6 +163,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [MakerScan](https://makerscan.io) - Explorer for MakerDao
   - [MKR Tools](https://mkr.tools/) - Explorer for MakerDao
   - [Uniswap ETH Liquidity](https://mikemcdonald.github.io/uniswap/eth-token-liquidity) - Chart of Uniswap's ETH liquidity by token
+- [Crypto Trackers](https://github.com/denisnazarov/awesome-crypto-trackers) - Curated list of crypto project trackers and analytics dashboards
 - [DeFI Pulse](https://defipulse.com/) - Dashboard with info about locked amount in USD
 - [Stablecoin Index](https://stablecoinindex.com/) - Chart of prices biggest stablecoins
 - [Stable Report](https://stable.report/) - Weekly reports about stablecoins and list of most stablecoins
