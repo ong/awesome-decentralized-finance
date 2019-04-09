@@ -81,7 +81,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 
 - Ethereum
   - [Compound](https://compound.finance) ([source code](https://github.com/compound-finance/), [white paper](https://compound.finance/documents/Compound.Whitepaper.v04-83de48b6622ddd665234b41076d04c8b.pdf?vsn=d)) - Protocol for algorithmic money markets
-  - [Dharma](https://dharma.io) ([source code](https://github.com/dharmaprotocol), [white paper](https://whitepaper.dharma.io)) - Protocol for building lending products using tokenized debt
+  - [Dharma](https://dharma.io) ([source code](https://github.com/dharmaprotocol)) - Protocol for building lending products using tokenized debt
   - [Ethlend](https://ethlend.io) ([source code](https://github.com/ETHLend), [white paper](https://github.com/ETHLend/Documentation/blob/master/ETHLendWhitePaper.md)) - Marketplace for peer-to-peer lending
   - [Lendroid](https://www.lendroid.com) ([source code](https://github.com/lendroidproject), [white paper](https://uploads-ssl.webflow.com/5b3d0e23faf03c5dc943df64/5b3d0e23faf03c96e243df86_whitepaper-margin-trading-2-18.pdf)) - Protocol for decentralized lending, margin trading, and short selling
   - [Marble](https://marble.org) ([source code](https://github.com/marbleprotocol)) - "Flash lending" protocol for borrowing "Ether and ERC20 tokens to take advantage of arbitrage opportunities on Ethereum"
