@@ -14,7 +14,11 @@ I just translated the original text, translated it into Chinese, and the copyrig
 
 去中心化金融（#defi）是利用开源软件和去中心化网络将传统金融产品转变为无信任且透明的协议的运动，这些协议在没有不必要的中介的情况下运行。 去中心化金融对金融世界的影响，大家可以回想一下开源软件改变软件产品的影响。
 ## 所有DeFi的项目
- ![DeFi map](./ethereum's defi.png)
+
+ ![DeFi](./ethereum's defi.png)
+ 
+ --------------
+ 
  ![DeFi](./所有的DeFi项目.png)
  
  引用自网络
