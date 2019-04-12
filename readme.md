@@ -17,6 +17,8 @@ I just translated the original text, translated it into Chinese, and the copyrig
 
  ![DeFi map](./ethereum's defi.png)
  
+ --------------
+ 
  ![DeFi](./所有的DeFi项目.png)
  
  引用自网络
