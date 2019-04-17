@@ -128,6 +128,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Polymath/ST-20](https://polymath.network) ([source code](https://github.com/PolymathNetwork), original white paper removed from website but is archived [here](https://whitepaper.io/document/57/polymath-whitepaper)) - Platform for tokenizing securities
   - [Abacus](https://abacusfi.com/) ([soure code](https://github.com/abacusfi), [white paper](https://github.com/abacusfi/whitepaper/blob/master/whitepaper.pdf)) - Protocol for permissioned tokens
 - [Stellar](https://www.stellar.org/) ([source code](https://github.com/stellar/stellar-core), [docs](https://www.stellar.org/developers/guides/concepts/assets.html)) - Stellar has first-party support for issuing arbitrary tokens
+- [TokenScript](https://github.com/AlphaWallet/TokenScript/) - An expressive markup language to define Tokens and their actions. 
 
 <a name="kyc-aml-identity" />
 
@@ -150,6 +151,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Multis](https://multis.co) ([white paper](https://multis.co/white-paper.html)) - Interface for multisig contracts positioned as "cryptobank for companies"
   - [Settle](https://settle.finance) - Web interface that combines chat with different crypto tools (including portfolio tracking and integration with DeFi protocols) and an "app store" for developers
   - [Zerion](https://zerion.io) ([source code](https://github.com/zeriontech)) - Interface to decentralized finance protocols positioned as "trustless banking"
+  - [AlphaWallet]("https://alphawallet.com/") ([source code](https://github.com/AlphaWallet)) ([download-iOS-Android](https://alphawallet.github.io/AlphaWallet-Download-Page/)) - An easy to use Ethereum wallet with a powerful feature set to support tokens and dapps
 
 <a name="analytics" />
 
