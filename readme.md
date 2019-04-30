@@ -18,6 +18,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 - [KYC/AML/Identity](#kyc-aml-identity)
 - [Applications/Tools](#applications-tools)
 - [Analytics](#analytics)
+– [Accounting](#accounting)
 - [Misc](#misc)
 - [Community](#community)
 
@@ -167,6 +168,13 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 - [DeFI Pulse](https://defipulse.com/) - Dashboard with info about locked amount in USD
 - [Stablecoin Index](https://stablecoinindex.com/) - Chart of prices biggest stablecoins
 - [Stable Report](https://stable.report/) - Weekly reports about stablecoins and list of most stablecoins
+
+<a name="accounting" />
+
+## Accounting
+– [Balanc3](https://www.balanc3.net/) – accounting, consolidation, reporting, and analytics tools for blockchain assets
+– [Tokentax](https://tokentax.co/) – a tool to report taxes on bitcoin, altcoins, and all other digital currencies.
+– [Veriledger](https://veriledger.io/) – accounting tools for crypto-enabled businesses
 
 <a name="misc" />
 
