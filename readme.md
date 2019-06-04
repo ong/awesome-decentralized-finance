@@ -204,6 +204,12 @@ I just translated the original text, translated it into Chinese, and the copyrig
 - [Stablecoin Index](https://stablecoinindex.com/) - Chart of prices biggest stablecoins
 - [Stable Report](https://stable.report/) - Weekly reports about stablecoins and list of most stablecoins  关于稳定币和大多数稳定币列表的每周报道
 
+- [tableau的图表对标](https://public.tableau.com/profile/alethio.defi#!/)
+- [Alethio DeFi](https://dexindex.io/)An open source tool that searches Ethereum decentralized exchanges to find the best token prices.
+- [DeFi.dappReview ](https://defi.dapp.review/) DappReview出关于DeFi的相关网站
+- [DappTotal.DeFi](https://dapptotal.com/defi) DappTotal 出的关于DeFi的数据分析网站，DeFi排行。
+- [DeFiPrime](https://defiprime.com/)List of the best Decentralized Finance Products
+
 <a name="misc" />
 
 ## Misc  其他
@@ -222,10 +228,9 @@ I just translated the original text, translated it into Chinese, and the copyrig
 <a name="contributions" />
 
 ## Contributions  提供你的分享
+我们不在跟随原版的英文repo.
+如果你想提交PR，欢迎跟我联系，[@liuis](liuisblockchain@gmaill.com)
 
-Your contributions are always welcome!
-
-If you want to contribute to this list (please do), send me a pull request or contact me [@edwin](https://twitter.com/edwin).
 
 ## License
 
