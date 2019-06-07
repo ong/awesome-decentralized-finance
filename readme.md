@@ -235,3 +235,13 @@ I just translated the original text, translated it into Chinese, and the copyrig
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+
+### 如果觉得还不错，可以给我捐献，让我有动力继续更新
+BTC：167zA73YjwYo2CTgV1bhtSuka1oit3wcTe
+
+ETH：0x993de638cd1bdb7536926c612d71661c9ad19944
+
+LTC：LcSfN4Cgw2wbebDe82z2LD3if9U8yUj8Hj
+
+BCH：167zA73YjwYo2CTgV1bhtSuka1oit3wcTe
