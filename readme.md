@@ -15,7 +15,7 @@ I just translated the original text, translated it into Chinese, and the copyrig
 去中心化金融（#defi）是利用开源软件和去中心化网络将传统金融产品转变为无信任且透明的协议的运动，这些协议在没有不必要的中介的情况下运行。 去中心化金融对金融世界的影响，大家可以回想一下开源软件改变软件产品的影响。
 ## 所有DeFi的项目
 
- ![DeFi](./ethereum's defi.png)
+ ![DeFi](./eth_defi.png)
  
  --------------
  
@@ -204,6 +204,12 @@ I just translated the original text, translated it into Chinese, and the copyrig
 - [Stablecoin Index](https://stablecoinindex.com/) - Chart of prices biggest stablecoins
 - [Stable Report](https://stable.report/) - Weekly reports about stablecoins and list of most stablecoins  关于稳定币和大多数稳定币列表的每周报道
 
+- [tableau相关的DeFi的图表对比](https://public.tableau.com/profile/alethio.defi#!/)
+- [Alethio DeFi](https://dexindex.io/)  An open source tool that searches Ethereum decentralized exchanges to find the best token prices.
+- [DeFi.dappReview ](https://defi.dapp.review/)  DappReview出关于DeFi的相关网站
+- [DappTotal.DeFi](https://dapptotal.com/defi)  DappTotal 出的关于DeFi的数据分析网站，DeFi排行。
+- [DeFiPrime](https://defiprime.com/) List of the best Decentralized Finance Products
+
 <a name="misc" />
 
 ## Misc  其他
@@ -222,11 +228,20 @@ I just translated the original text, translated it into Chinese, and the copyrig
 <a name="contributions" />
 
 ## Contributions  提供你的分享
+我们不在跟随原版的英文repo.
+如果你想提交PR，欢迎跟我联系，[@liuis](liuisblockchain@gmaill.com)
 
-Your contributions are always welcome!
-
-If you want to contribute to this list (please do), send me a pull request or contact me [@edwin](https://twitter.com/edwin).
 
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+
+### 如果觉得还不错，可以给我捐献，让我有动力继续更新
+BTC：167zA73YjwYo2CTgV1bhtSuka1oit3wcTe
+
+ETH：0x993de638cd1bdb7536926c612d71661c9ad19944
+
+LTC：LcSfN4Cgw2wbebDe82z2LD3if9U8yUj8Hj
+
+BCH：167zA73YjwYo2CTgV1bhtSuka1oit3wcTe
