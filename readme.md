@@ -231,6 +231,8 @@ I just translated the original text, translated it into Chinese, and the copyrig
 我们不在跟随原版的英文repo.
 如果你想提交PR，欢迎跟我联系，[@liuis](liuisblockchain@gmaill.com)
 
+##  文章社区
+* [defiant](https://thedefiant.substack.com/)
 
 ## License
 
