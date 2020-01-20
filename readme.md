@@ -22,6 +22,11 @@ I just translated the original text, translated it into Chinese, and the copyrig
  ![DeFi](./所有的DeFi项目.png)
  
  引用自网络
+ 
+## 一个集中式操作各个defi产品的平台与新手指导
+- [defizap](https://defizap.com/)DeFiZap is a system of smart contracts - Zaps - that deploys ETH (and soon DAI) across multiple DeFi protocols in one transaction, saving your time.
+- [defitutorials](https://defitutorials.com/)
+- [defistrategies](https://defistrategies.com/)Explore & test investment opportunities in DeFi.
 
 ## 内容
 
