@@ -23,6 +23,10 @@ I just translated the original text, translated it into Chinese, and the copyrig
  
  引用自网络
  
+## coingecko  出的DeFi的普及书
+
+可以在repo中自取
+ 
 ## 一个集中式操作各个defi产品的平台与新手指导
 - [defizap](https://defizap.com/)  DeFiZap is a system of smart contracts - Zaps - that deploys ETH (and soon DAI) across multiple DeFi protocols in one transaction, saving your time.
 - [defitutorials](https://defitutorials.com/)
