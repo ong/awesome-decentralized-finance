@@ -191,6 +191,10 @@ Your contributions are always welcome!
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@edwin](https://twitter.com/edwin).
 
+## Other Awesome Lists
+
+If you are interested in AI search, check out this [awesome generative engine optimization awesome list](https://github.com/amplifying-ai/awesome-generative-engine-optimization).
+
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
