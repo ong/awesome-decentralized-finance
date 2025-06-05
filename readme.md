@@ -193,7 +193,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ## Other Awesome Lists
 
-If you are interested in AI search, check out this [awesome generative engine optimization awesome list](https://github.com/amplifying-ai/awesome-generative-engine-optimization).
+If you are interested in AI search, check out this [awesome generative engine optimization list](https://github.com/amplifying-ai/awesome-generative-engine-optimization).
 
 ## License
 
