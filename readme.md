@@ -150,6 +150,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Multis](https://multis.co) ([white paper](https://multis.co/white-paper.html)) - Interface for multisig contracts positioned as "cryptobank for companies"
   - [Settle](https://settle.finance) - Web interface that combines chat with different crypto tools (including portfolio tracking and integration with DeFi protocols) and an "app store" for developers
   - [Zerion](https://zerion.io) ([source code](https://github.com/zeriontech)) - Interface to decentralized finance protocols positioned as "trustless banking"
+  - [Permissionless Interfaces](https://pi.cp0x.com/) ([source code](https://github.com/cp0x-org/)) - Open-source, censorship-resistant frontends for DeFi protocols. Interact directly with smart contracts without geo-restrictions, address blacklists, or other centralized limitations. A gateway to truly permissionless finance.
 
 <a name="analytics" />
 
