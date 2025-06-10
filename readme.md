@@ -150,6 +150,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Multis](https://multis.co) ([white paper](https://multis.co/white-paper.html)) - Interface for multisig contracts positioned as "cryptobank for companies"
   - [Settle](https://settle.finance) - Web interface that combines chat with different crypto tools (including portfolio tracking and integration with DeFi protocols) and an "app store" for developers
   - [Zerion](https://zerion.io) ([source code](https://github.com/zeriontech)) - Interface to decentralized finance protocols positioned as "trustless banking"
+  - [DeBank](https://debank.com) - DeFi wallet, track DeFi assets and debts.
 
 <a name="analytics" />
 
@@ -167,6 +168,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 - [DeFI Pulse](https://defipulse.com/) - Dashboard with info about locked amount in USD
 - [Stablecoin Index](https://stablecoinindex.com/) - Chart of prices biggest stablecoins
 - [Stable Report](https://stable.report/) - Weekly reports about stablecoins and list of most stablecoins
+- [DeBank](https://debank.com/ranking) - DeFi projects analytics in Lending, Stablecoin, DEX and Margin trading.
 
 <a name="misc" />
 
