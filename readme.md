@@ -11,6 +11,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 - [Decentralized Exchange Protocols](#decentralized-exchange-protocols)
 - [Stablecoins](#stablecoins)
 - [Lending Protocols](#lending-protocols)
+- [Spending Protocols](#spending-protocols)
 - [Derivative Protocols/Prediction Markets](#derivative-protocols)
 - [Bundling Protocols](#bundling-protocols)
 - [Tokenization Protocols](#tokenization-protocols)
@@ -86,6 +87,12 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Lendroid](https://www.lendroid.com) ([source code](https://github.com/lendroidproject), [white paper](https://lendroid.com/assets/whitepaper-margin-trading.pdf)) - Protocol for decentralized lending, margin trading, and short selling
   - [Marble](https://marble.org) ([source code](https://github.com/marbleprotocol)) - "Flash lending" protocol for borrowing "Ether and ERC20 tokens to take advantage of arbitrage opportunities on Ethereum"
   - [Ripio](https://ripiocredit.network/) ([source code](https://github.com/ripio/rcn-network), [white paper](https://ripiocredit.network/wp/RCN%20Whitepaper%20ENG.pdf)) - P2P global credit network protocol based on cosigned smart contracts
+  
+<a name="spending-protocols" />
+
+## Spending Protocols
+
+- [TokenCard](https://tokencard.io) ([source code](https://github.com/tokencard/contracts), [white paper](https://tokencard.io/tokencard_whitepaper.pdf) - Non-custodial contract wallet paired with a debit card.
 
 <a name="derivative-protocols" />
 
