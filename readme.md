@@ -62,12 +62,20 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
     - [AnchorUSD](https://www.anchorusd.com/) (closed source) - KYC/AML compliant stellar-based token that promises deposits are held 1:1 in audited, US-based bank accounts
     - [Stronghold](https://stronghold.co/stronghold-usd/) (closed source, [white paper](https://docsend.com/view/gg3p9ce)) - Stellar-based token that provides a KYC/AML compliant USD stablecoin
     - [White Standard](https://thewhitecompanyus.com/white-standard/) ([source code](https://github.com/thewhitecompany/whitestandard#), [white paper](https://thewhitecompanyus.com/white-paper)) - Stellar-based tokens that provide stablecoins for a variety of currencies
+  - EOS
+    - [CarbonUSD](https://www.carbon.money/) (closed source) -  EOS based stablecoin issued by Carbon
+    - [EOS Stablecoin](https://eosstablecoin.com/) (closed source) -  Cross-chain Stable Coins in EOS Ecosystem
+
 - Collateralized
   - [Celo](https://celo.org) ([white paper](https://storage.googleapis.com/celo_whitepapers/Celo__A_Multi_Asset_Cryptographic_Protocol_for_Decentralized_Social_Payments.pdf)) - Over-collateralized stablecoin targeting the unbanked using its own distributed ledger
   - Ethereum
     - [Dai Stablecoin from Maker](https://makerdao.com/dai) ([source code](https://github.com/makerdao), [white paper](https://makerdao.com/whitepaper/)) - Stablecoin based on smart contracts for creating collateralized debt positions
     - [Synthetix](https://www.synthetix.io/) ([rebranding announcement](https://blog.synthetix.io/havven-is-transforming-into-synthetix/), [source code](https://github.com/Synthetixio/synthetix), [white paper](https://www.synthetix.io/uploads/synthetix_whitepaper.pdf)) - Decentralized stablecoin modeled on centralized closed loop payment networks formerly known as Havven
      - [WBTC](https://www.wbtc.network) ([source code](https://github.com/WrappedBTC/bitcoin-token-smart-contracts), [white paper](https://www.wbtc.network/assets/wrapped-tokens-whitepaper.pdf)) - ERC-20 token backed 1:1 by Bitcoin
+  - EOS
+    - [Equilibrium](https://eosdt.com/) ([source code](https://github.com/equilibrium-eosdt)) - Lets the community issue EOSDT stablecoins (pegged to USD) against the collateral of liquid digital assets
+    - [USDE](https://www.pizza.live/) ([white paper](https://www.pizza.live/static/media/PIZZA-USDE%201.0.1_EN.889b7d53.pdf)) - A Decentralized Stablecoin System on EOS
+
 - Algorithmic
   - Ethereum
     - [Ampleforth](https://www.ampleforth.org/) ([rebranding announcement](https://medium.com/ampleforth/fragments-to-ampleforth-thoughts-behind-the-name-change-e38bf95077b2), [source code](https://github.com/ampleforth), [white paper](https://www.ampleforth.org/paper/)) - Monetary policy-based stablecoin protocol formerly known as Fragments
