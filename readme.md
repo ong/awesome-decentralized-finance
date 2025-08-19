@@ -116,6 +116,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 ## Fund Protocols
 
 - Ethereum
+  - [CoTrader](https://cotrader.com) ([source code](https://github.com/CoTraderCore), [whitepaper](https://cotrader.com/whitepaper), [mainnet](https://mainnet.cotrader.com)) - Live Non-Custodial Investment Fund Marketplace
   - [Fund Protocol](https://www.coinalpha.com/projects) ([source code](https://github.com/CoinAlpha/fund-protocol), [wiki](https://github.com/CoinAlpha/fund-protocol/wiki)) - Protocol for fund administration on the Ethereum blockchain
   - [Melonport](https://melonport.com) ([source code](https://github.com/melonproject), [green paper](https://github.com/melonproject/paper/blob/master/melonprotocol.pdf)) - Protocol for digital asset management
 
