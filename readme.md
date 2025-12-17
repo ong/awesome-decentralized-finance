@@ -20,6 +20,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 - [Asset Management](#fund-protocols)
 - [Applications/Tools](#applications-tools)
 - [Analytics](#analytics)
+– [Accounting](#accounting)
 - [Misc](#misc)
 - [Community](#community)
 
@@ -239,6 +240,13 @@ On-chain fund management platforms.
 - [Nansen](https://nansen.ai) - On-chain analytics with labeled wallets (tracks smart money)
 - [Arkham](https://arkaham.com) - Track entities and wallets
 - [Glassnode](https://glassnode.com) - On-chain metrics and market intelligence
+
+<a name="accounting" />
+
+## Accounting
+– [Balanc3](https://www.balanc3.net/) – accounting, consolidation, reporting, and analytics tools for blockchain assets
+– [Tokentax](https://tokentax.co/) – a tool to report taxes on bitcoin, altcoins, and all other digital currencies.
+– [Veriledger](https://veriledger.io/) – accounting tools for crypto-enabled businesses
 
 <a name="misc" />
 
