@@ -235,6 +235,7 @@ On-chain fund management platforms.
 - [Basescan](https://basescan.org) - Base
 
 ### Research & Intelligence
+- [Chartscout](https://chartscout.io) - Real-time cryptocurrency chart pattern detection with automated alerts across multiple exchanges
 - [Messari](https://messari.io) - Research reports and protocol data
 - [Nansen](https://nansen.ai) - On-chain analytics with labeled wallets (tracks smart money)
 - [Arkham](https://arkaham.com) - Track entities and wallets
@@ -276,6 +277,8 @@ Bringing traditional assets on-chain.
 ### Learning
 - [Finematics](https://finematics.com) - Educational videos
 - [DeFi Prime](https://defiprime.com) - Directory of DeFi products
+- [Chartscout](https://chartscout.io/trading-education) - Learn crypto chart patterns through real-time examples and trading education articles
+
 
 ### For Developers
 - [ETHGlobal](https://ethglobal.com) - Hackathons and community
