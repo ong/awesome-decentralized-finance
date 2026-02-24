@@ -264,6 +264,9 @@ Bringing traditional assets on-chain.
 - [Snapshot](https://snapshot.org) ([source code](https://github.com/snapshot-labs)) - Gasless off-chain voting for DAOs
 - [Tally](https://tally.xyz) ([docs](https://docs.tally.xyz/)) - On-chain governance interface
 
+### Social Impact
+- [LefCoin](https://lefcoin.com) - Sentiment-indexed ERC-20 on Base L2 with on-chain LOVE Index that amplifies holder rewards based on global positivity. 11 charities funded via GoodSpendRegistry.
+
 <a name="community" />
 
 ## Community
