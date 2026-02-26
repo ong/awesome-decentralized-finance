@@ -223,6 +223,7 @@ On-chain fund management platforms.
 - [DeFiLlama](https://defillama.com) ([source code](https://github.com/DefiLlama)) - Best DeFi data source: TVL, yields, stablecoins, unlocks across all chains
 - [Dune Analytics](https://dune.com) - Create custom dashboards with SQL queries on blockchain data
 - [Token Terminal](https://tokenterminal.com) - Protocol financials (revenue, fees, P/E ratios)
+- [Philidor Analytics](https://analytics.philidor.io) - On-chain analytics and security scores on Vaults, Protocols, Portfolio and Oracles
 
 ### DEX & Trading
 - [DEX Screener](https://dexscreener.com) - Real-time charts for any DEX pair across all chains
