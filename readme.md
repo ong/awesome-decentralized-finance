@@ -214,6 +214,7 @@ On-chain fund management platforms.
 ### Developer Infrastructure
 - [The Graph](https://thegraph.com) ([source code](https://github.com/graphprotocol), [docs](https://thegraph.com/docs/)) - Index and query blockchain data
 - [WalletConnect](https://walletconnect.com) ([source code](https://github.com/WalletConnect), [docs](https://docs.walletconnect.com/)) - Connect wallets to dapps
+- [Crypto Price API](https://crypto-price-landing.vercel.app) ([docs](https://crypto-price-landing.vercel.app)) - Free real-time REST API for 150+ cryptocurrency prices (BTC, ETH, SOL, and more). No API key required for free tier (100 req/day)
 
 <a name="analytics" />
 
