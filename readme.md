@@ -200,6 +200,7 @@ On-chain fund management platforms.
 - [Rainbow](https://rainbow.me) - Mobile-friendly Ethereum wallet
 - [Rabby](https://rabby.io) ([source code](https://github.com/RabbyHub/Rabby)) - Desktop wallet with better multi-chain UX
 - [Safe](https://safe.global) ([source code](https://github.com/safe-global), [docs](https://docs.safe.global/)) - Multi-sig wallet (formerly Gnosis Safe)
+- [Frostbyte Wallet API](https://frostbyte-landing.vercel.app) - Multi-chain HD wallet API with cross-chain swaps. 9 chains (Ethereum, Base, Arbitrum, Optimism, Polygon, BSC, Avalanche, Solana, Bitcoin). 0.3% swap fee. REST API with OpenAPI spec.
 
 ### Portfolio Trackers
 - [DeBank](https://debank.com) - Track positions across 1000+ protocols
