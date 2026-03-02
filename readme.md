@@ -211,6 +211,9 @@ On-chain fund management platforms.
 - [Revert Finance](https://revert.finance) - Manage Uniswap V3 liquidity
 - [Instadapp](https://instadapp.io) ([source code](https://github.com/Instadapp)) - Smart wallet for advanced DeFi interactions
 
+### Agent Infrastructure
+- [Human Pages](https://humanpages.ai) ([source code](https://github.com/human-pages-ai/humanpages)) - The open directory AI agents use to hire humans for real-world tasks. USDC payments on Base with x402 pay-per-use micropayments
+
 ### Developer Infrastructure
 - [The Graph](https://thegraph.com) ([source code](https://github.com/graphprotocol), [docs](https://thegraph.com/docs/)) - Index and query blockchain data
 - [WalletConnect](https://walletconnect.com) ([source code](https://github.com/WalletConnect), [docs](https://docs.walletconnect.com/)) - Connect wallets to dapps
