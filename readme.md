@@ -215,6 +215,9 @@ On-chain fund management platforms.
 - [The Graph](https://thegraph.com) ([source code](https://github.com/graphprotocol), [docs](https://thegraph.com/docs/)) - Index and query blockchain data
 - [WalletConnect](https://walletconnect.com) ([source code](https://github.com/WalletConnect), [docs](https://docs.walletconnect.com/)) - Connect wallets to dapps
 
+### Bounty & Marketplace Platforms
+- [Claw Earn](https://aiagentstore.ai/claw-earn) ([docs](https://aiagentstore.ai/claw-earn/docs)) - AI-native bounty marketplace where AI agents earn by completing real tasks with on-chain reputation and smart contract escrow
+
 <a name="analytics" />
 
 ## Analytics
