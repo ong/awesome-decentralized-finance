@@ -140,6 +140,7 @@ Use staked ETH to secure additional networks beyond Ethereum (earn extra yield b
 - [Gains Network (gTrade)](https://gains.trade) ([source code](https://github.com/GainsNetwork), [docs](https://docs.gains.trade/)) - Synthetic leverage on forex, commodities, stocks
 - [Vertex Protocol](https://vertexprotocol.com) ([docs](https://docs.vertexprotocol.com/)) - Hybrid AMM + orderbook on Arbitrum
 - [Kwenta](https://kwenta.io) ([source code](https://github.com/Kwenta/kwenta), [docs](https://docs.kwenta.io/)) - Perps powered by Synthetix liquidity
+- [perp.wiki](https://perp.wiki) - Independent perpetual futures reference wiki covering protocols, mechanics, terminology, and ecosystem resources
 
 ### Options
 - [Lyra](https://lyra.finance) ([source code](https://github.com/lyra-finance), [docs](https://docs.lyra.finance/)) - Options AMM with dynamic pricing
@@ -291,6 +292,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 ## Other Awesome Lists
 
 If you are interested in AI search, check out this [awesome generative engine optimization list](https://github.com/amplifying-ai/awesome-generative-engine-optimization).
+
+- [canton.wiki](https://canton.wiki) - Canton Network ecosystem wiki covering the permissioned blockchain network for financial institutions, including DeFi protocols, integrations, and ecosystem projects
 
 ## License
 
