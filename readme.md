@@ -239,6 +239,7 @@ On-chain fund management platforms.
 - [Nansen](https://nansen.ai) - On-chain analytics with labeled wallets (tracks smart money)
 - [Arkham](https://arkaham.com) - Track entities and wallets
 - [Glassnode](https://glassnode.com) - On-chain metrics and market intelligence
+- [Web3 Trackers](https://www.web3trackers.com) - Marketing attribution for DeFi: track which campaigns drive wallet connects and on-chain deposits
 
 <a name="misc" />
 
