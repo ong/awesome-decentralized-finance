@@ -218,6 +218,7 @@ On-chain fund management platforms.
 <a name="analytics" />
 
 ## Analytics
+- [Chain Forensics](https://github.com/796farina/chain-forensics-api) - Behavioral wallet intelligence API. Detects coordinated wallets, sybil networks, and wash trading across 6 chains. Free tier available.
 
 ### DeFi Dashboards
 - [DeFiLlama](https://defillama.com) ([source code](https://github.com/DefiLlama)) - Best DeFi data source: TVL, yields, stablecoins, unlocks across all chains
