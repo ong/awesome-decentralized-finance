@@ -264,6 +264,9 @@ Bringing traditional assets on-chain.
 - [Snapshot](https://snapshot.org) ([source code](https://github.com/snapshot-labs)) - Gasless off-chain voting for DAOs
 - [Tally](https://tally.xyz) ([docs](https://docs.tally.xyz/)) - On-chain governance interface
 
+### Alternative Consensus
+- [RustChain](https://rustchain.org) ([source code](https://github.com/Scottcjn/rustchain), [docs](https://rustchain.org/llms.txt)) - Proof-of-Antiquity blockchain rewarding vintage hardware miners (PowerPC, Pentium 4) with RTC tokens. No ICO, no premine beyond 6% dev fund. Ergo chain anchoring, on-chain AI agent economy (RIP-302)
+
 <a name="community" />
 
 ## Community
