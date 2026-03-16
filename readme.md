@@ -209,6 +209,7 @@ On-chain fund management platforms.
 ### Advanced DeFi Tools
 - [DeFi Saver](https://defisaver.com) - Automation for lending positions (MakerDAO, Aave, Compound)
 - [Revert Finance](https://revert.finance) - Manage Uniswap V3 liquidity
+- [FlashArb Scanner](http://18.118.43.47/flasharb/) ([source code](https://github.com/JacobMazelin/flasharb-scanner)) - Free real-time DEX arbitrage scanner between Uniswap V3 and SushiSwap with flash loan profit calculations. Zero capital required.
 - [Instadapp](https://instadapp.io) ([source code](https://github.com/Instadapp)) - Smart wallet for advanced DeFi interactions
 
 ### Developer Infrastructure
