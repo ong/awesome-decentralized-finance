@@ -214,6 +214,7 @@ On-chain fund management platforms.
 ### Developer Infrastructure
 - [The Graph](https://thegraph.com) ([source code](https://github.com/graphprotocol), [docs](https://thegraph.com/docs/)) - Index and query blockchain data
 - [WalletConnect](https://walletconnect.com) ([source code](https://github.com/WalletConnect), [docs](https://docs.walletconnect.com/)) - Connect wallets to dapps
+- [Arch Tools](https://archtools.dev) ([source code](https://github.com/Deesmo/Arch-AI-Tools), [docs](https://archtools.dev)) - 61 AI tools via REST API and MCP with native x402 USDC micropayments on Base, Polygon, Avalanche, and Solana
 
 <a name="analytics" />
 
