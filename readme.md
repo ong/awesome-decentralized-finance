@@ -226,6 +226,7 @@ On-chain fund management platforms.
 
 ### DEX & Trading
 - [DEX Screener](https://dexscreener.com) - Real-time charts for any DEX pair across all chains
+- [DexPaprika](https://api.dexpaprika.com) ([source code](https://github.com/coinpaprika)) ([docs](https://docs.dexpaprika.com)) - Free DEX data API: pools, tokens, trades, OHLCV across all chains. No API key, no rate limits.
 - [GeckoTerminal](https://geckoterminal.com) - DEX analytics by CoinGecko
 - [Dex.Guru](https://dex.guru) - Advanced DEX trading terminal
 
