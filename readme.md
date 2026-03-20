@@ -48,6 +48,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 
 ### Cross-Chain
 - [THORChain](https://thorchain.org) ([source code](https://gitlab.com/thorchain), [docs](https://docs.thorchain.org/)) - Native cross-chain swaps (BTC, ETH, etc.) without wrapped tokens
+- [NanoStack](https://api.nano-labs.io) ([docs](https://api.nano-labs.io/.well-known/openapi.json)) - Cross-chain execution API for native token swaps across 80+ chains
 
 <a name="stablecoins" />
 
