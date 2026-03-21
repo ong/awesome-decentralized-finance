@@ -207,6 +207,7 @@ On-chain fund management platforms.
 - [Zerion](https://zerion.io) ([source code](https://github.com/zeriontech)) - Portfolio + trading interface
 
 ### Advanced DeFi Tools
+- [Aegis](https://github.com/StanleytheGoat/aegis) ([source code](https://github.com/StanleytheGoat/aegis)) - DeFi safety layer for autonomous AI agents. MCP server that scans contracts against 165 exploit patterns, simulates transactions on forked chains, and enforces on-chain guardrails on Base
 - [DeFi Saver](https://defisaver.com) - Automation for lending positions (MakerDAO, Aave, Compound)
 - [Revert Finance](https://revert.finance) - Manage Uniswap V3 liquidity
 - [Instadapp](https://instadapp.io) ([source code](https://github.com/Instadapp)) - Smart wallet for advanced DeFi interactions
