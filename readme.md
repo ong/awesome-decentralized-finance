@@ -151,6 +151,7 @@ Use staked ETH to secure additional networks beyond Ethereum (earn extra yield b
 - [Polymarket](https://polymarket.com) ([docs](https://docs.polymarket.com/)) - Largest prediction market, $2B+ in 2024 volume betting on real-world events
 - [Augur](https://augur.net) ([source code](https://github.com/AugurProject/augur), [docs](https://docs.augur.net/)) - OG prediction market protocol
 - [Azuro](https://azuro.org) - Sports betting prediction market
+- [SuiBets](https://suibets.com) - Decentralized sports betting on Sui blockchain with verified smart contract and formal verification
 
 <a name="layer-2-scaling-solutions" />
 
