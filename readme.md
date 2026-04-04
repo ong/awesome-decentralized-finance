@@ -152,7 +152,6 @@ Use staked ETH to secure additional networks beyond Ethereum (earn extra yield b
 - [Augur](https://augur.net) ([source code](https://github.com/AugurProject/augur), [docs](https://docs.augur.net/)) - OG prediction market protocol
 - [Azuro](https://azuro.org) - Sports betting prediction market
 - [SuiBets](https://suibets.app) ([source code](https://github.com/elpou88/suibetsupdatedsecurity)) - Decentralized sports betting on Sui blockchain with SUI, SBETS & USDsui wagering. 700+ on-chain bets, live on mainnet.
-- [SuiBets](https://suibets.com) - Decentralized sports betting on Sui blockchain with verified smart contract and formal verification
 
 <a name="layer-2-scaling-solutions" />
 
