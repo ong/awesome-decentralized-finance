@@ -2,6 +2,7 @@
 
 A curated list of awesome decentralized finance projects, software, and resources.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for DeFi workflow orchestration, automated decentralized finance pipeline management, and multi-agent coordination. MIT licensed.
 ## What is Decentralized Finance?
 
 Decentralized finance (#defi) is the movement that leverages open source software and decentralized networks to transform traditional financial products into trustless and transparent protocols that operate without unnecessary intermediaries. One could envision decentralized finance impacting the financial world the same way that open source software has changed software products.
