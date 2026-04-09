@@ -259,6 +259,7 @@ Bringing traditional assets on-chain.
 ### Privacy
 - [Aztec](https://aztec.network) ([source code](https://github.com/AztecProtocol), [docs](https://docs.aztec.network/)) - Privacy-focused ZK rollup
 - [Railgun](https://railgun.org) ([docs](https://docs.railgun.org/)) - Private DeFi transactions via ZK-SNARKs
+- [Zcash MCP](https://github.com/Frontier-Compute/zcash-mcp) ([npm](https://www.npmjs.com/package/@frontiercompute/zcash-mcp)) - MCP server for shielded Zcash transactions, memo decoding, and attestation
 
 ### Governance Tools
 - [Snapshot](https://snapshot.org) ([source code](https://github.com/snapshot-labs)) - Gasless off-chain voting for DAOs
