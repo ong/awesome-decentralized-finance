@@ -195,6 +195,7 @@ On-chain fund management platforms.
 
 ## Applications/Tools
 
+- [LearnAI — Aave Interactive Course](https://www.uselearnai.com/chat?topic=Aave+DeFi) — AI-powered personal tutor for learning Aave from scratch through conversation
 ### Wallets
 - [MetaMask](https://metamask.io) ([source code](https://github.com/MetaMask), [docs](https://docs.metamask.io/)) - Most popular Ethereum wallet, built-in swaps
 - [Rainbow](https://rainbow.me) - Mobile-friendly Ethereum wallet
