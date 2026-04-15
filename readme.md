@@ -214,6 +214,7 @@ On-chain fund management platforms.
 ### Developer Infrastructure
 - [The Graph](https://thegraph.com) ([source code](https://github.com/graphprotocol), [docs](https://thegraph.com/docs/)) - Index and query blockchain data
 - [WalletConnect](https://walletconnect.com) ([source code](https://github.com/WalletConnect), [docs](https://docs.walletconnect.com/)) - Connect wallets to dapps
+- [AI Money Hunter](https://github.com/haoyousun60-create/ai-money-hunter) ([source code](https://github.com/haoyousun60-create/ai-money-hunter)) - Curated collection of 25+ code bounty platforms, crypto airdrop guides, and developer income strategies
 
 <a name="analytics" />
 
