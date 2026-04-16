@@ -135,6 +135,7 @@ Use staked ETH to secure additional networks beyond Ethereum (earn extra yield b
 ### Perpetuals (Decentralized Leverage Trading)
 - [GMX](https://gmx.io) ([source code](https://github.com/gmx-io), [docs](https://docs.gmx.io/)) - $1B+ daily volume, up to 50x leverage. Uses GLP pool as counterparty
 - [dYdX](https://dydx.exchange) ([source code](https://github.com/dydxprotocol), [docs](https://docs.dydx.exchange/)) - Orderbook-based, now on standalone blockchain. Highest volume perp DEX
+- [Perpmate](https://perpmate.com) - Perp DEX to trade crypto, stocks, commodities with leverage and crosschain swap BTC,ETH,SOL connect wallet and trade. Powered by Hyperliquid.
 - [Hyperliquid](https://hyperliquid.xyz) - Fully on-chain orderbook L1, fastest-growing perp DEX
 - [Synthetix Perps](https://synthetix.io) ([source code](https://github.com/Synthetixio/synthetix), [docs](https://docs.synthetix.io/)) - Debt pool model, deep liquidity for crypto and forex
 - [Gains Network (gTrade)](https://gains.trade) ([source code](https://github.com/GainsNetwork), [docs](https://docs.gains.trade/)) - Synthetic leverage on forex, commodities, stocks
