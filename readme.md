@@ -223,6 +223,7 @@ On-chain fund management platforms.
 - [DeFiLlama](https://defillama.com) ([source code](https://github.com/DefiLlama)) - Best DeFi data source: TVL, yields, stablecoins, unlocks across all chains
 - [Dune Analytics](https://dune.com) - Create custom dashboards with SQL queries on blockchain data
 - [Token Terminal](https://tokenterminal.com) - Protocol financials (revenue, fees, P/E ratios)
+- [Deep Blue Alpha](https://deepbluealpha.io) - Real-time Ethereum whale intelligence: live DEX trades, buy/sell sentiment, and conviction scoring across 5,000+ tracked wallets
 
 ### DEX & Trading
 - [DEX Screener](https://dexscreener.com) - Real-time charts for any DEX pair across all chains
