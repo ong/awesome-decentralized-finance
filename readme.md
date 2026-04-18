@@ -26,6 +26,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 <a name="decentralized-exchange-protocols" />
 
 ## Decentralized Exchange Protocols
+- [7/Seven Chain Node](https://github.com/umairkhan2582/seven-chain-node) - Validator node for 7/Seven Chain (Chain ID: 70007), an EVM-compatible blockchain (BSC/Parlia fork) powering [TheSeven.meme](https://theseven.meme) — world's first on-chain perpetual futures exchange with 100+ pairs, up to 2001× leverage, and zero trading fees.
 
 ### Ethereum & EVM
 - [Uniswap](https://uniswap.org) ([source code](https://github.com/Uniswap), [docs](https://docs.uniswap.org/)) - Largest DEX by volume. V4 adds customizable hooks for advanced functionality
