@@ -165,6 +165,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Uniswap ETH Liquidity](https://mikemcdonald.github.io/uniswap/eth-token-liquidity) - Chart of Uniswap's ETH liquidity by token
   - [Predictions.Global](https://predictions.global/) - Dashboard with prediction markets from Augur
 - [DeFI Pulse](https://defipulse.com/) - Dashboard with info about locked amount in USD
+- [Pharos](https://pharos.watch/) - Stablecoin analytics dashboard covering supply, peg stability, liquidity, reserves, yield, and risk signals
 - [Stablecoin Index](https://stablecoinindex.com/) - Chart of prices biggest stablecoins
 - [Stable Report](https://stable.report/) - Weekly reports about stablecoins and list of most stablecoins
 
