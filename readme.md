@@ -39,6 +39,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 - [1inch](https://1inch.io) ([source code](https://github.com/1inch), [docs](https://docs.1inch.io/)) - Finds best swap routes across multiple DEXs
 - [Matcha](https://matcha.xyz) - Aggregator by 0x with professional trading UI
 - [ParaSwap](https://paraswap.io) ([source code](https://github.com/paraswap)) - Multi-chain aggregator with MEV protection
+- [Swapifie](https://www.swapifie.com) - Multi-chain DEX aggregator for optimal token swap rates across Ethereum, Arbitrum, Base, Polygon, Optimism, BNB Chain and Avalanche
 - [CoW Swap](https://cow.fi) ([source code](https://github.com/cowprotocol), [docs](https://docs.cow.fi/)) - MEV-protected trading via batch auctions and off-chain order matching
 
 ### Solana
