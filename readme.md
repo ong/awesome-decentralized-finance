@@ -211,6 +211,7 @@ On-chain fund management platforms.
 - [Revert Finance](https://revert.finance) - Manage Uniswap V3 liquidity
 - [Instadapp](https://instadapp.io) ([source code](https://github.com/Instadapp)) - Smart wallet for advanced DeFi interactions
 
+- [ContractScan](https://dutchaiagency.github.io/contractscan-api/) ([source code](https://github.com/dutchaiagency/contractscan-api)) - Free browser-based smart contract security scanner. Detects rug pulls, honeypots, and 11 vulnerability patterns across 6 chains
 ### Developer Infrastructure
 - [The Graph](https://thegraph.com) ([source code](https://github.com/graphprotocol), [docs](https://thegraph.com/docs/)) - Index and query blockchain data
 - [WalletConnect](https://walletconnect.com) ([source code](https://github.com/WalletConnect), [docs](https://docs.walletconnect.com/)) - Connect wallets to dapps
