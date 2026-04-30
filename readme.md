@@ -210,6 +210,7 @@ On-chain fund management platforms.
 - [DeFi Saver](https://defisaver.com) - Automation for lending positions (MakerDAO, Aave, Compound)
 - [Revert Finance](https://revert.finance) - Manage Uniswap V3 liquidity
 - [Instadapp](https://instadapp.io) ([source code](https://github.com/Instadapp)) - Smart wallet for advanced DeFi interactions
+- [DeepAlpha](https://github.com/stefanoviana/deepalpha) ([source code](https://github.com/stefanoviana/deepalpha)) - AI-powered crypto trading bot with ML ensemble, 12 exchanges, grid trading and DCA strategies
 
 ### Developer Infrastructure
 - [The Graph](https://thegraph.com) ([source code](https://github.com/graphprotocol), [docs](https://thegraph.com/docs/)) - Index and query blockchain data
@@ -295,3 +296,7 @@ If you are interested in AI search, check out this [awesome generative engine op
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+## AI Trading Bots
+
+- [DeepAlpha](https://github.com/stefanoviana/deepalpha) - AI crypto trading bot with 70.9% walk-forward validated accuracy. XGBoost + LightGBM ensemble with 72 features. MIT license.
