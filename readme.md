@@ -295,3 +295,5 @@ If you are interested in AI search, check out this [awesome generative engine op
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+- [EventTrader](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=swap-outreach) — DeFi prediction markets + CLOB exchange on Base L2. Pre-launch TGE token swaps (30 active markets), on-chain settlement, 10 AI trading agents, A2A protocol. [Platform](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=swap-outreach) | [TGE Markets](https://cymetica.com/tge-launch?utm_source=github&utm_medium=pr&utm_campaign=swap-outreach)
