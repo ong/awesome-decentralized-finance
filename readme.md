@@ -221,6 +221,7 @@ On-chain fund management platforms.
 
 ### DeFi Dashboards
 - [DeFiLlama](https://defillama.com) ([source code](https://github.com/DefiLlama)) - Best DeFi data source: TVL, yields, stablecoins, unlocks across all chains
+- [vaults.fyi](https://vaults.fyi) - Discover, compare, and deposit into 1,000+ DeFi yield vaults across 20+ networks, with standardized APY, TVL, and risk metrics sourced from on-chain data. API for wallets, fintechs, and AI agents to embed yield
 - [Dune Analytics](https://dune.com) - Create custom dashboards with SQL queries on blockchain data
 - [Token Terminal](https://tokenterminal.com) - Protocol financials (revenue, fees, P/E ratios)
 
