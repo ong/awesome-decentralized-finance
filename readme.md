@@ -195,6 +195,9 @@ On-chain fund management platforms.
 
 ## Applications/Tools
 
+### Payments
+- [Base Pay Desk](https://oskarasi.github.io/base-pay-desk-site/) ([source code](https://github.com/oskarasi/base-pay-desk-site)) - Open-source Base ETH payment-link builder for merchants and service sellers
+
 ### Wallets
 - [MetaMask](https://metamask.io) ([source code](https://github.com/MetaMask), [docs](https://docs.metamask.io/)) - Most popular Ethereum wallet, built-in swaps
 - [Rainbow](https://rainbow.me) - Mobile-friendly Ethereum wallet
