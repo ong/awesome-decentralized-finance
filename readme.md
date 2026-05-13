@@ -228,6 +228,7 @@ On-chain fund management platforms.
 - [DEX Screener](https://dexscreener.com) - Real-time charts for any DEX pair across all chains
 - [GeckoTerminal](https://geckoterminal.com) - DEX analytics by CoinGecko
 - [Dex.Guru](https://dex.guru) - Advanced DEX trading terminal
+- [Sharpe](https://www.sharpe.ai) - Crypto trading intelligence for DEX flow, derivatives positioning, arbitrage, narratives, stablecoins, and exchange listings
 
 ### Block Explorers
 - [Etherscan](https://etherscan.io) - Ethereum
