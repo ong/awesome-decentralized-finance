@@ -66,6 +66,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 - [crvUSD](https://crvusd.curve.fi) ([docs](https://docs.curve.fi/crvusd/)) - Soft liquidation mechanism (LLAMMA) reduces liquidation risk
 - [LUSD](https://www.liquity.org) ([source code](https://github.com/liquity/dev), [docs](https://docs.liquity.org/)) - 0% interest, ETH-only collateral, immutable protocol
 - [FRAX](https://frax.finance) ([source code](https://github.com/FraxFinance), [docs](https://docs.frax.finance/)) - Fractional-algorithmic design
+- [DotFlat](https://beta.app.dotflat.io) ([source code](https://github.com/nagor2/cryptoFiat)) - Commodity-backed stablecoin (DFC) pegged to a basket of 34 real-world commodities (gold, oil, wheat, metals). CDP system on Ethereum mainnet, overcollateralized with ETH. Open-source oracle with 34 on-chain price feeds
 
 ### Wrapped BTC
 - [WBTC](https://wbtc.network) ([source code](https://github.com/WrappedBTC/bitcoin-token-smart-contracts)) - Centralized custody, largest supply
@@ -214,6 +215,7 @@ On-chain fund management platforms.
 ### Developer Infrastructure
 - [The Graph](https://thegraph.com) ([source code](https://github.com/graphprotocol), [docs](https://thegraph.com/docs/)) - Index and query blockchain data
 - [WalletConnect](https://walletconnect.com) ([source code](https://github.com/WalletConnect), [docs](https://docs.walletconnect.com/)) - Connect wallets to dapps
+- [Blockpulse](https://github.com/nagor2/blockpulse) - Event-driven cache invalidation for Ethereum dApp backends. Replaces TTL polling with WebSocket block subscriptions, automatically invalidates Redis cache when transactions land on watched contracts
 
 <a name="analytics" />
 
