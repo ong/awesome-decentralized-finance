@@ -209,6 +209,7 @@ On-chain fund management platforms.
 ### Advanced DeFi Tools
 - [DeFi Saver](https://defisaver.com) - Automation for lending positions (MakerDAO, Aave, Compound)
 - [Revert Finance](https://revert.finance) - Manage Uniswap V3 liquidity
+- [PoolDeFi](https://pooldefi.xyz) - Real historical APR of concentrated-liquidity pools from on-chain snapshots; multi-chain yield scanner, calculator, and IL planner
 - [Instadapp](https://instadapp.io) ([source code](https://github.com/Instadapp)) - Smart wallet for advanced DeFi interactions
 
 ### Developer Infrastructure
