@@ -215,6 +215,9 @@ On-chain fund management platforms.
 - [The Graph](https://thegraph.com) ([source code](https://github.com/graphprotocol), [docs](https://thegraph.com/docs/)) - Index and query blockchain data
 - [WalletConnect](https://walletconnect.com) ([source code](https://github.com/WalletConnect), [docs](https://docs.walletconnect.com/)) - Connect wallets to dapps
 
+### AI Agent Tools
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust-scoring MCP server for x402 agents on Solana. Free on-chain preflight checks trust + identity signals; signed USDC trust receipt (<$0.01, <1s). MCP URL: `https://intel.twzrd.xyz/mcp`
+
 <a name="analytics" />
 
 ## Analytics
