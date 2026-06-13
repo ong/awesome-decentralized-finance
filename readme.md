@@ -29,6 +29,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 
 ### Ethereum & EVM
 - [Uniswap](https://uniswap.org) ([source code](https://github.com/Uniswap), [docs](https://docs.uniswap.org/)) - Largest DEX by volume. V4 adds customizable hooks for advanced functionality
+- [SwapTitan](https://swaptitan.net) - Instant no-KYC decentralized crypto swap. 1288+ assets (BTC, ETH, SOL, XMR). No account, no wallet required. ~0.9% fee. MCP server for AI agents.
 - [Curve Finance](https://curve.fi) ([source code](https://github.com/curvefi), [docs](https://docs.curve.fi/)) - Specialized AMM for stablecoin and like-kind asset swaps with low slippage
 - [Balancer](https://balancer.fi) ([source code](https://github.com/balancer), [docs](https://docs.balancer.fi/)) - Customizable AMM pools supporting multiple tokens with different weightings
 - [PancakeSwap](https://pancakeswap.finance) ([source code](https://github.com/pancakeswap), [docs](https://docs.pancakeswap.finance/)) - Largest DEX on BNB Chain, now multi-chain
