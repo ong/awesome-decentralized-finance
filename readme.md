@@ -116,7 +116,7 @@ Auto-compound and optimize yields across multiple protocols.
 - [Beefy Finance](https://beefy.finance) ([source code](https://github.com/beefyfinance), [docs](https://docs.beefy.finance/)) - Multi-chain auto-compounder (20+ chains)
 - [Pendle](https://pendle.finance) ([source code](https://github.com/pendle-finance), [docs](https://docs.pendle.finance/)) - Trade future yield (separate principal from yield)
 - [Yield Yak](https://yieldyak.com) ([source code](https://github.com/yieldyak), [docs](https://docs.yieldyak.com/)) - Avalanche-focused auto-compounder
-- [WealthVille](https://wealthville.net) ([docs](https://wealthville.net/opportunities)) - Non-custodial automated yield optimizer on Solana. Keeper bots auto-compound LP rewards across Orca Whirlpools and Raydium AMM/CLMM/CPMM. ~$14.2M TVL, 24 active vaults.
+- [WealthVille](https://wealthville.net) ([docs](https://wealthville.net/opportunities)) - Non-custodial automated yield optimizer on Solana. Keeper bots auto-compound LP rewards across Orca Whirlpools and Raydium AMM/CLMM/CPMM.
 
 <a name="restaking-protocols" />
 
