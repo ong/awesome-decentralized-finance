@@ -228,6 +228,7 @@ On-chain fund management platforms.
 - [DEX Screener](https://dexscreener.com) - Real-time charts for any DEX pair across all chains
 - [GeckoTerminal](https://geckoterminal.com) - DEX analytics by CoinGecko
 - [Dex.Guru](https://dex.guru) - Advanced DEX trading terminal
+- [VaultVision](https://vaultvision.tech/hyperliquid-vault-scanner) - Hyperliquid vault scanner for rankings, risk scores, drawdown, TVL, deposit status, alerts, and vault research.
 
 ### Block Explorers
 - [Etherscan](https://etherscan.io) - Ethereum
