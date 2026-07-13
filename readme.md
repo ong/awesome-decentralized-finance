@@ -214,11 +214,6 @@ On-chain fund management platforms.
 ### Developer Infrastructure
 - [The Graph](https://thegraph.com) ([source code](https://github.com/graphprotocol), [docs](https://thegraph.com/docs/)) - Index and query blockchain data
 - [WalletConnect](https://walletconnect.com) ([source code](https://github.com/WalletConnect), [docs](https://docs.walletconnect.com/)) - Connect wallets to dapps
-- [Builder Codes](https://formo.so/tools/builder-codes) - Encode, decode, and validate ERC-8021 builder codes for onchain transaction attribution.
-- [Wei Converter](https://formo.so/tools/wei-converter) - Convert between Wei, Gwei, and ETH without manual calculations.
-- [Address Checksum](https://formo.so/tools/address-checksum) - Validate and convert Ethereum and EVM addresses to EIP-55 checksum format.
-- [Sign-In with Ethereum](https://formo.so/tools/sign-in-with-ethereum) - Create and inspect EIP-4361 SIWE messages for wallet-based authentication.
-- [Calldata Decoder](https://formo.so/tools/calldata-decoder) - Decode Ethereum and EVM transaction calldata into readable function calls, selectors, and parameters.
 
 <a name="analytics" />
 
@@ -245,20 +240,8 @@ On-chain fund management platforms.
 - [Arkham](https://arkaham.com) - Track entities and wallets
 - [Glassnode](https://glassnode.com) - On-chain metrics and market intelligence
 
-### Growth & Marketing Analytics
-- [UTM Generator](https://formo.so/tools/utm-generator) - Generate campaign links with source, medium, campaign, term, and content parameters for web3 acquisition.
-- [Tracking Plan Generator](https://formo.so/tools/tracking-plan-generator) - Generate an install-ready event taxonomy for DeFi apps, wallets, and onchain products.
-- [DeFi Campaign ROI Calculator](https://formo.so/tools/defi-campaign-roi-calculator) - Measure ROI, ROAS, cost per wallet, and onchain conversion metrics for DeFi campaigns.
-- [ROI Calculator](https://formo.so/tools/roi-calculator) - Estimate wallet acquisition expenses, revenue per wallet, and marketing returns.
-- [Wallet Lifetime Value Calculator](https://formo.so/tools/ltv-calculator) - Compute lifetime value per wallet using revenue, lifespan, and margin data.
-- [Cost per Wallet Calculator (CAC)](https://formo.so/tools/cost-per-wallet-calculator) - Determine acquisition cost per wallet and LTV-to-CAC ratio.
-- [Crypto Conversion Rate Calculator](https://formo.so/tools/conversion-calculator) - Calculate visitor-to-wallet and connect-to-transaction conversion rates for your crypto funnel.
-- [Crypto Bounce Rate Calculator](https://formo.so/tools/bounce-rate-calculator) - Calculate wallet bounce rate and activation rate between wallet connect and first transaction.
-- [Crypto Retention Rate Calculator](https://formo.so/tools/retention-calculator) - Calculate wallet retention and churn rate for your crypto app's active cohorts.
-- [Churn Calculator](https://formo.so/tools/churn-calculator) - Calculate wallet churn and understand how many users you lose over time.
-- [Crypto Campaign CTR Calculator](https://formo.so/tools/ctr-calculator) - Measure click-through rate from impressions and clicks for campaigns.
-- [Crypto A/B Test Calculator](https://formo.so/tools/ab-test-calculator) - Calculate statistical significance and uplift between two conversion rate variants.
-- [Crypto Traffic Value Calculator](https://formo.so/tools/traffic-value-calculator) - Estimate paid-equivalent value of organic wallet traffic.
+### Attribution
+- [Formo](https://formo.so) - Analytics and attribution for DeFi apps.
 
 <a name="misc" />
 
