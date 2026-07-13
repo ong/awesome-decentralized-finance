@@ -267,6 +267,9 @@ Bringing traditional assets on-chain.
 - [Snapshot](https://snapshot.org) ([source code](https://github.com/snapshot-labs)) - Gasless off-chain voting for DAOs
 - [Tally](https://tally.xyz) ([docs](https://docs.tally.xyz/)) - On-chain governance interface
 
+### Data Tools
+- [Builder Codes](https://formo.so/tools/builder-codes) - Encode, decode, and validate ERC-8021 builder codes for onchain transaction attribution.
+
 <a name="community" />
 
 ## Community
