@@ -202,6 +202,7 @@ On-chain fund management platforms.
 - [Safe](https://safe.global) ([source code](https://github.com/safe-global), [docs](https://docs.safe.global/)) - Multi-sig wallet (formerly Gnosis Safe)
 
 ### Portfolio Trackers
+- [Cryptool](https://cryptool.io) - Non-custodial multi-chain portfolio tracker with built-in fundraising, OTC, and fund management for investors and syndicates
 - [DeBank](https://debank.com) - Track positions across 1000+ protocols
 - [Zapper](https://zapper.xyz) - Portfolio tracker + easy DeFi interactions
 - [Zerion](https://zerion.io) ([source code](https://github.com/zeriontech)) - Portfolio + trading interface
