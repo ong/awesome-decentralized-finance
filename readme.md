@@ -203,6 +203,7 @@ On-chain fund management platforms.
 
 ### Portfolio Trackers
 - [DeBank](https://debank.com) - Track positions across 1000+ protocols
+- [Cryptool](https://cryptool.io) - Non-custodial multi-chain portfolio tracker with built-in fundraising, OTC, and fund management for investors and syndicates
 - [Zapper](https://zapper.xyz) - Portfolio tracker + easy DeFi interactions
 - [Zerion](https://zerion.io) ([source code](https://github.com/zeriontech)) - Portfolio + trading interface
 
