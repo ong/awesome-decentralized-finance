@@ -213,6 +213,7 @@ On-chain fund management platforms.
 
 ### Developer Infrastructure
 - [The Graph](https://thegraph.com) ([source code](https://github.com/graphprotocol), [docs](https://thegraph.com/docs/)) - Index and query blockchain data
+- [Codex](https://www.codex.io) ([docs](https://docs.codex.io/)) - Real-time token data API (prices, charts, holders) covering 80+ networks
 - [WalletConnect](https://walletconnect.com) ([source code](https://github.com/WalletConnect), [docs](https://docs.walletconnect.com/)) - Connect wallets to dapps
 
 <a name="analytics" />
@@ -226,6 +227,7 @@ On-chain fund management platforms.
 
 ### DEX & Trading
 - [DEX Screener](https://dexscreener.com) - Real-time charts for any DEX pair across all chains
+- [Defined](https://www.defined.fi) - Charts, token discovery, and wallet tracking with built-in cross-chain trading
 - [GeckoTerminal](https://geckoterminal.com) - DEX analytics by CoinGecko
 - [Dex.Guru](https://dex.guru) - Advanced DEX trading terminal
 
