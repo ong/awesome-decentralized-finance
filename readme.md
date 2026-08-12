@@ -224,6 +224,9 @@ On-chain fund management platforms.
 - [Dune Analytics](https://dune.com) - Create custom dashboards with SQL queries on blockchain data
 - [Token Terminal](https://tokenterminal.com) - Protocol financials (revenue, fees, P/E ratios)
 
+### Benchmarks & Infrastructure
+- [OpenChainBench](https://openchainbench.com) - Continuous live benchmarks for perp DEX all-in cost, bridge fees, oracle deviation (Chainlink/Pyth/Redstone), and blockchain RPC latency across 20+ chains. Open-source, MIT licensed.
+
 ### DEX & Trading
 - [DEX Screener](https://dexscreener.com) - Real-time charts for any DEX pair across all chains
 - [GeckoTerminal](https://geckoterminal.com) - DEX analytics by CoinGecko
