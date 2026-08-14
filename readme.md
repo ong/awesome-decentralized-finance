@@ -239,6 +239,7 @@ On-chain fund management platforms.
 - [Nansen](https://nansen.ai) - On-chain analytics with labeled wallets (tracks smart money)
 - [Arkham](https://arkaham.com) - Track entities and wallets
 - [Glassnode](https://glassnode.com) - On-chain metrics and market intelligence
+- [AtlasYield](https://atlasyield.club) ([score history](https://github.com/gveshk/atlasyield-score-history)) - Independent 0-100 ratings for DeFi yield vaults across 16 risk and return factors, with a public read-only scores API
 
 <a name="misc" />
 
