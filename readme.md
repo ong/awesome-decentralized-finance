@@ -238,7 +238,9 @@ On-chain fund management platforms.
 - [Messari](https://messari.io) - Research reports and protocol data
 - [Nansen](https://nansen.ai) - On-chain analytics with labeled wallets (tracks smart money)
 - [Arkham](https://arkaham.com) - Track entities and wallets
+- [Deep Blue Alpha](https://deepbluealpha.io) - Real-time Ethereum whale tracking for 23,000+ wallets with sentiment index, conviction scoring, and alerts
 - [Glassnode](https://glassnode.com) - On-chain metrics and market intelligence
+- [Deep Blue Alpha](https://deepbluealpha.io) - Real-time Ethereum whale wallet tracker — monitors 10,000+ wallets block-by-block, net flow per token across 1H/24H/7D windows, free public API
 
 <a name="misc" />
 
