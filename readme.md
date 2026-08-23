@@ -226,6 +226,7 @@ On-chain fund management platforms.
 
 ### DEX & Trading
 - [DEX Screener](https://dexscreener.com) - Real-time charts for any DEX pair across all chains
+- [CoinVerum](https://coinverum.com) ([source code](https://github.com/yochabar/coinverum), [docs](https://coinverum.com/data-api)) - Ethereum mainnet DEX analytics for on-chain TVL, volume, trades, pools, prices, and active addresses
 - [GeckoTerminal](https://geckoterminal.com) - DEX analytics by CoinGecko
 - [Dex.Guru](https://dex.guru) - Advanced DEX trading terminal
 
