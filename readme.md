@@ -215,6 +215,10 @@ On-chain fund management platforms.
 - [The Graph](https://thegraph.com) ([source code](https://github.com/graphprotocol), [docs](https://thegraph.com/docs/)) - Index and query blockchain data
 - [WalletConnect](https://walletconnect.com) ([source code](https://github.com/WalletConnect), [docs](https://docs.walletconnect.com/)) - Connect wallets to dapps
 
+### Off-ramps
+- [USDCtoFiat](https://usdctofiat.xyz) ([docs](https://usdctofiat.xyz/developers/)) - Sell Base USDC to Revolut, Monzo, Chime, Zelle
+- [@usdctofiat/offramp](https://www.npmjs.com/package/@usdctofiat/offramp) ([docs](https://usdctofiat.xyz/developers/offramp-sdk/)) - TypeScript SDK: cashout({ mode: "fast" | "best" })
+
 <a name="analytics" />
 
 ## Analytics
