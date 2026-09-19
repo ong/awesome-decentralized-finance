@@ -203,6 +203,7 @@ On-chain fund management platforms.
 
 ### Portfolio Trackers
 - [DeBank](https://debank.com) - Track positions across 1000+ protocols
+- [QuantumPools](https://quantumpools.io) - Multi-chain concentrated-liquidity LP bookkeeping & Cover Value (fees vs IL vs original deposit) across EVM + Solana.
 - [Zapper](https://zapper.xyz) - Portfolio tracker + easy DeFi interactions
 - [Zerion](https://zerion.io) ([source code](https://github.com/zeriontech)) - Portfolio + trading interface
 
