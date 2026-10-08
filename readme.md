@@ -239,6 +239,7 @@ On-chain fund management platforms.
 - [Nansen](https://nansen.ai) - On-chain analytics with labeled wallets (tracks smart money)
 - [Arkham](https://arkaham.com) - Track entities and wallets
 - [Glassnode](https://glassnode.com) - On-chain metrics and market intelligence
+- [RWA Space](https://rwaspace.app/) - Research catalog for tokenized real-world assets, linking underlying assets, issuances, observed markets, source documents, and pricing methodology
 
 <a name="misc" />
 
