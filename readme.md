@@ -209,6 +209,7 @@ On-chain fund management platforms.
 ### Advanced DeFi Tools
 - [DeFi Saver](https://defisaver.com) - Automation for lending positions (MakerDAO, Aave, Compound)
 - [Revert Finance](https://revert.finance) - Manage Uniswap V3 liquidity
+- [Krystal](https://defi.krystal.app) - Liquidity farming agent. Decentralized, multichain liquidity management platform for efficient farming on DEXs
 - [Instadapp](https://instadapp.io) ([source code](https://github.com/Instadapp)) - Smart wallet for advanced DeFi interactions
 
 ### Developer Infrastructure
