@@ -223,6 +223,7 @@ On-chain fund management platforms.
 - [DeFiLlama](https://defillama.com) ([source code](https://github.com/DefiLlama)) - Best DeFi data source: TVL, yields, stablecoins, unlocks across all chains
 - [Dune Analytics](https://dune.com) - Create custom dashboards with SQL queries on blockchain data
 - [Token Terminal](https://tokenterminal.com) - Protocol financials (revenue, fees, P/E ratios)
+- [Stablecoin Yield Reality Check](https://livastic-vm3-primary-tmp-260920.github.io/stablecoin-yield-reality-check/) ([source code](https://github.com/livastic-vm3-primary-tmp-260920/stablecoin-yield-reality-check)) - Free read-only DeFiLlama-sourced stablecoin yield comparison and illustrative transaction-fee break-even; rates may be stale and protocol risks are not assessed
 
 ### DEX & Trading
 - [DEX Screener](https://dexscreener.com) - Real-time charts for any DEX pair across all chains
