@@ -239,6 +239,7 @@ On-chain fund management platforms.
 - [Nansen](https://nansen.ai) - On-chain analytics with labeled wallets (tracks smart money)
 - [Arkham](https://arkaham.com) - Track entities and wallets
 - [Glassnode](https://glassnode.com) - On-chain metrics and market intelligence
+- [Token Unlock Calendar](https://github.com/yungsuper16-eng/tokenomics-audit-desk) - Open dataset (CSV/JSON) of verified token unlock events for the next 90 days, with contested figures flagged
 
 <a name="misc" />
 
