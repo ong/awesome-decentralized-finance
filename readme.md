@@ -45,6 +45,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 - [Jupiter](https://jup.ag) ([source code](https://github.com/jup-ag)) - Leading Solana DEX aggregator with limit orders and DCA
 - [Raydium](https://raydium.io) ([source code](https://github.com/raydium-io)) - AMM with concentrated liquidity integrated with Serum orderbook
 - [Orca](https://www.orca.so) ([source code](https://github.com/orca-so)) - User-friendly DEX with concentrated liquidity (Whirlpools)
+- [Craic Hub Exchange](https://thehubexchange.com) - Non-custodial Solana swap front end routing via Jupiter, with a LI.FI cross-chain bridge; token launch and listings. Fees paid in $CRAIC are burned.
 
 ### Cross-Chain
 - [THORChain](https://thorchain.org) ([source code](https://gitlab.com/thorchain), [docs](https://docs.thorchain.org/)) - Native cross-chain swaps (BTC, ETH, etc.) without wrapped tokens
