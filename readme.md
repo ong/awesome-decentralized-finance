@@ -214,6 +214,7 @@ On-chain fund management platforms.
 ### Developer Infrastructure
 - [The Graph](https://thegraph.com) ([source code](https://github.com/graphprotocol), [docs](https://thegraph.com/docs/)) - Index and query blockchain data
 - [WalletConnect](https://walletconnect.com) ([source code](https://github.com/WalletConnect), [docs](https://docs.walletconnect.com/)) - Connect wallets to dapps
+- [0xArchive](https://0xarchive.io) ([docs](https://docs.0xarchive.io/)) - Real-time and historical Hyperliquid and Lighter market data via REST and WebSocket APIs
 
 <a name="analytics" />
 
