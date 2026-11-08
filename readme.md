@@ -48,7 +48,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 
 ### Cross-Chain
 - [THORChain](https://thorchain.org) ([source code](https://gitlab.com/thorchain), [docs](https://docs.thorchain.org/)) - Native cross-chain swaps (BTC, ETH, etc.) without wrapped tokens
-- [GSPC Exchange](https://exchange.gspcoin.us) ([docs](https://exchange.gspcoin.us/docs)) - High-speed non-custodial Peer-to-Peer (P2P) crypto escrow exchange with real-time central limit order books and multi-chain settlement across GSPC, BTC, LTC, and USDT
+- [GSPC Exchange](https://exchange.gspcoin.us) ([docs](https://exchange.gspcoin.us/docs)) - High-speed non-custodial Peer-to-Peer (P2P) crypto escrow exchange with real-time central limit order books and multi-chain settlement across 21 digital assets (GSPC, BTC, ETH, SOL, LTC, USDT, USDC, and more)
 
 <a name="stablecoins" />
 
