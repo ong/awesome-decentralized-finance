@@ -210,6 +210,8 @@ On-chain fund management platforms.
 - [DeFi Saver](https://defisaver.com) - Automation for lending positions (MakerDAO, Aave, Compound)
 - [Revert Finance](https://revert.finance) - Manage Uniswap V3 liquidity
 - [Instadapp](https://instadapp.io) ([source code](https://github.com/Instadapp)) - Smart wallet for advanced DeFi interactions
+- [DeFiPulse AI](https://defipulse.net) - Autonomous AI co-pilot for instant Solidity smart contract auditing, real-time whale tracking, and DAO governance summaries.
+
 
 ### Developer Infrastructure
 - [The Graph](https://thegraph.com) ([source code](https://github.com/graphprotocol), [docs](https://thegraph.com/docs/)) - Index and query blockchain data
