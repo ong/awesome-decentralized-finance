@@ -34,6 +34,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 - [PancakeSwap](https://pancakeswap.finance) ([source code](https://github.com/pancakeswap), [docs](https://docs.pancakeswap.finance/)) - Largest DEX on BNB Chain, now multi-chain
 - [SushiSwap](https://sushi.com) ([source code](https://github.com/sushiswap), [docs](https://docs.sushi.com/)) - Multi-chain AMM with additional DeFi products
 - [Aerodrome](https://aerodrome.finance) ([source code](https://github.com/aerodrome-finance), [docs](https://docs.aerodrome.finance/)) - Next-gen AMM on Base with ve(3,3) tokenomics
+- [Melega DEX](https://www.melega.finance/) ([source code](https://github.com/meleganza/MelegaSwapV2)) - Decentralized exchange on BNB Chain
 
 ### DEX Aggregators
 - [1inch](https://1inch.io) ([source code](https://github.com/1inch), [docs](https://docs.1inch.io/)) - Finds best swap routes across multiple DEXs
